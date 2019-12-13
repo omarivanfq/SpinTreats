@@ -1,0 +1,11 @@
+3
+0.25 0.333 planeta2.png 0.45
+0.50 0.666 planeta2.png 0.45
+0.75 0.333 planeta2.png 0.45
+6
+0.3 0.1 dulce4.png
+0.7 0.2 dulce4.png
+0.1 0.3 dulce4.png
+0.6 0.4 dulce4.png
+0.4 0.5 dulce4.png
+0.1 0.6 dulce4.png

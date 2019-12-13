@@ -1,0 +1,1773 @@
+<!--
+	1. The first planet of each challenge must be of type 1.
+	2. The first planet of each challenge must never be surrounded by treats.
+	3. Each level must have 5 lives.
+	4. Planets must never overlap.
+	5. All planets must be completely inside of the screen.
+	6. All the challenges of the same level must have the same type of border.
+-->
+<!--
+	NOTE: this file contains only a percentage of all the levels made for the game,
+	      all 150 levels can be played only by downloading the app on play store
+-->
+<planetasData>
+	<section>
+		<level>
+			<challenge>
+				<planet1 x="0.28518522" y="0.7411211" size="0.30" speed="0.8"/>
+				<treat>
+					<planet1 x="0.5" y="0.50738126" size="0.30" speed="0.8"/>
+					<planet1 x="0.725926" y="0.26615316" size="0.30" speed="0.8"/>
+				</treat>
+			</challenge>
+			<challenge>
+				<planet1 x="0.29259259" y="0.7026102" size="0.30" speed="0.8"/>
+				<treat>
+					<planet1 x="0.41851854" y="0.31108257" size="0.30" speed="0.8"/>
+					<planet1 x="0.7296297" y="0.55712456" size="0.30" speed="0.8"/>
+				</treat>
+			</challenge>
+			<challenge>
+				<planet1 x="0.725" y="0.80102694" size="0.3" speed="0.82"/>
+				<treat>
+					<planet1 x="0.24722221" y="0.6068678" size="0.3" speed="0.82"/>
+					<planet1 x="0.7518519" y="0.39666238" size="0.30" speed="0.82"/>
+					<planet1 x="0.31851855" y="0.18271285" size="0.30" speed="0.82"/>
+				</treat>
+			</challenge>
+		</level> <!-- n-001 -->
+		<level>
+			<challenge>
+				<planet1 x="0.2361111" y="0.7641207" size="0.3" speed="0.82"/>
+				<treat>
+					<planet1 x="0.77777785" y="0.1548994" size="0.30" speed="0.82"/>
+					<planet1 x="0.24074078" y="0.47796324" size="0.30" speed="0.82"/>
+				</treat>
+			</challenge>
+			<challenge>
+				<planet1 x="0.8111111" y="0.88446724" size="0.30" speed="0.82"/>
+				<treat>
+					<planet1 x="0.18333334" y="0.5844031" size="0.3" speed="0.82"/>
+					<planet1 x="0.7777778" y="0.15436456" size="0.30" speed="0.82"/>
+					<planet1 x="0.41111115" y="0.7988875" size="0.30" speed="0.82"/>
+				</treat>
+			</challenge>
+			<challenge>
+				<planet1 x="0.22" y="0.5162187" size="0.30" speed="0.82"/>
+				<treat>
+					<planet1 x="0.22" y="0.8545144" size="0.30" speed="0.82"/>
+					<planet1 x="0.7814816" y="0.69619167" size="0.30" speed="0.82"/>
+					<planet1 x="0.22" y="0.16" size="0.30" speed="0.82"/>
+					<planet1 x="0.7851852" y="0.35173297" size="0.30" speed="0.82"/>
+				</treat>
+			</challenge>
+		</level> <!-- n-002 -->
+		<level>
+			<challenge>
+				<planet1 x="0.7777778" y="0.17103979" size="0.30" speed="0.82"/>
+				<treat>
+					<planet1 x="0.29629633" y="0.8545144" size="0.30" speed="0.82"/>
+					<planet1 x="0.77777785" y="0.6790757" size="0.30" speed="0.82"/>
+					<planet1 x="0.22962967" y="0.28764227" size="0.30" speed="0.82"/>
+				</treat>
+			</challenge>
+			<challenge time="10">
+				<planet1 x="0.5333334" y="0.86735135" size="0.30" speed="0.82"/>
+				<planet1 x="0.5222223" y="0.6255884" size="0.30" speed="0.82"/>
+				<treat>
+					<planet1 x="0.5370371" y="0.16103979" size="0.30" speed="0.85"/>
+				</treat>
+			</challenge>
+			<challenge time="12">
+				<planet1 x="0.25" y="0.75" size="0.3" speed="0.82"/>
+				<treat>
+					<planet1 x="0.75" y="0.75" size="0.3" speed="0.82"/>
+					<planet1 x="0.25" y="0.5" size="0.3" speed="0.82"/>
+					<planet1 x="0.75" y="0.25" size="0.3" speed="0.82"/>
+				</treat>
+				<planet1 x="0.75" y="0.5" size="0.3" speed="0.82"/>
+				<planet1 x="0.25" y="0.25" size="0.3" speed="0.82"/>
+			</challenge>
+		</level> <!-- n-003 -->
+		<level>
+			<challenge time="15">
+				<planet1 x="0.26166666" y="0.88639283" size="0.21" speed="0.88"/>
+				<treat>
+					<planet1 x="0.76666665" y="0.6534018" size="0.32" speed="0.88"/>
+					<planet1 x="0.31111115" y="0.174103979" size="0.39" speed="0.88"/>
+				</treat>
+			</challenge>
+			<challenge time="15">
+				<planet1 x="0.7222222" y="0.7903295" size="0.32" speed="0.88"/>
+				<treat>
+					<planet1 x="0.21481483" y="0.88660680" size="0.22" speed="0.88"/>
+					<planet1 x="0.63703716" y="0.49507913" size="0.22" speed="0.88"/>
+					<planet1 x="0.25925925" y="0.29396662" size="0.22" speed="0.88"/>
+					<planet1 x="0.77222220" y="0.1673979" size="0.22" speed="0.88"/>
+				</treat>
+			</challenge>
+			<challenge>
+				<planet1 x="0.5" y="0.51" size="0.33" speed="0.82"/>
+				<treat>
+					<planet1 x="0.17777778" y="0.89730424" size="0.22" speed="0.865"/>
+					<planet1 x="0.8444445" y="0.8502354" size="0.22" speed="0.865"/>
+					<planet1 x="0.15555556" y="0.16103979" size="0.22" speed="0.865"/>
+					<planet1 x="0.8222223" y="0.18913136" size="0.22" speed="0.865"/>
+				</treat>
+			</challenge>
+		</level> <!-- n-004 -->
+		<level>
+			<challenge time="15">
+				<planet1 x="0.22222222" y="0.8780488" size="0.22" speed="0.89"/>
+				<treat>
+					<planet1 x="0.8111111" y="0.57958925" size="0.30" speed="0.89"/>
+					<planet1 x="0.7888889" y="0.128" size="0.22" speed="0.89"/>
+					<planet1 x="0.16296297" y="0.40949935" size="0.22" speed="0.89"/>
+				</treat>
+				<planet1 x="0.6472222" y="0.821887" size="0.39" speed="0.89"/>
+				<planet1 x="0.3472222" y="0.65019256" size="0.28" speed="0.89"/>
+				<planet1 x="0.5633333" y="0.35210524" size="0.442" speed="0.82"/>
+				<planet1 x="0.23" y="0.127412065" size="0.36" speed="0.82"/>
+			</challenge>
+			<challenge time="17">
+				<planet1 x="0.18055555" y="0.89890885" size="0.22" speed="0.88"/>
+				<planet1 x="0.6333334" y="0.28968763" size="0.34" speed="0.78"/>
+				<planet1 x="0.2555556" y="0.47154477" size="0.42" speed="0.75"/>
+				<planet1 x="0.5037038" y="0.7282841" size="0.35" speed="0.77"/>
+				<planet1 x="0.49629632" y="0.9208386" size="0.16" speed="0.88"/>
+				<treat>
+					<planet1 x="0.8407408" y="0.12066752" size="0.22" speed="0.899"/>
+					<planet1 x="0.14444448" y="0.7304236" size="0.19" speed="0.899"/>
+					<planet1 x="0.7916667" y="0.8956996" size="0.22" speed="0.899"/>
+					<planet1 x="0.88888896" y="0.3902439" size="0.16" speed="0.899"/>
+					<planet1 x="0.24074078" y="0.21266581" size="0.30" speed="0.899"/>
+				</treat>
+				<planet1 x="0.8407408" y="0.7004707" size="0.22" speed="0.88"/>
+				<planet1 x="0.68518525" y="0.5164741" size="0.30" speed="0.81"/>
+				<planet1 x="0.5333334" y="0.09927258" size="0.22" speed="0.88"/>
+				<planet1 x="0.18166672" y="0.058729135" size="0.14999999" speed="0.88"/>
+			</challenge>
+			<challenge time="19">
+				<planet1 x="0.13444448" y="0.90864366" size="0.20" speed="0.88"/>
+				<treat>
+					<planet1 x="0.8644444" y="0.104942225" size="0.195" speed="0.88"/>
+					<planet1 x="0.47777787" y="0.28540868" size="0.22" speed="0.88"/>
+					<planet1 x="0.19629629" y="0.29610613" size="0.22" speed="0.88"/>
+					<planet1 x="0.3666667" y="0.8438168" size="0.18" speed="0.88"/>
+				</treat>
+				<treat cuantos="6">
+					<planet1 x="0.8222223" y="0.68335474" size="0.22" speed="0.88"/>
+					<planet1 x="0.16296297" y="0.7068892" size="0.27" speed="0.88"/>
+				</treat>
+				<planet1 x="0.62592596" y="0.84809583" size="0.22" speed="0.88"/>
+				<planet1 x="0.4937038" y="0.6882756" size="0.28" speed="0.88"/>
+				<planet1 x="0.32962963" y="0.48438168" size="0.38" speed="0.88"/>
+				<planet1 x="0.71851856" y="0.49507913" size="0.31" speed="0.88"/>
+				<planet1 x="0.8" y="0.28112963" size="0.29" speed="0.88"/>
+				<planet1 x="0.5592593" y="0.12494651" size="0.22" speed="0.88"/>
+			</challenge>
+		</level> <!-- n-005 -->
+		<extra>
+			<level>
+				<challenge time="8">
+					<planet1 x="0.64516133" y="0.46898642" size="0.26" speed="1.1"/>
+					<treat>
+						<planet1 x="0.7473119" y="0.86081696" size="0.22" speed="1.1"/>
+						<planet1 x="0.31569892" y="0.70716524" size="0.26" speed="1.1"/>
+						<planet1 x="0.25043014" y="0.21354672" size="0.28" speed="1.1"/>
+					</treat>
+				</challenge>
+				<challenge time="13">
+					<planet1 x="0.37244904" y="0.13505745" size="0.22" speed="1.15"/>
+					<treat>
+						<planet1 x="0.4566327" y="0.8606321" size="0.22" speed="1.15"/>
+						<planet1 x="0.70918375" y="0.6666667" size="0.22" speed="1.15"/>
+						<planet1 x="0.15306123" y="0.61925286" size="0.22" speed="1.12"/>
+						<planet1 x="0.3214286" y="0.41235632" size="0.22" speed="1.15"/>
+						<planet1 x="0.8010205" y="0.32614946" size="0.22" speed="1.13"/>
+					</treat>
+				</challenge>
+			</level> <!-- x-01 -->
+			<level>
+				<challenge time="15">
+					<planet1 x="0.40561226" y="0.8534483" size="0.22" speed="0.94"/>
+					<planet1 x="0.6428572" y="0.72557473" size="0.22" speed="0.2"/>
+					<planet1 x="0.18622452" y="0.70689654" size="0.22" speed="0.2"/>
+					<planet1 x="0.34183675" y="0.53591955" size="0.22" speed="0.2"/>
+					<planet1 x="0.6836735" y="0.50574714" size="0.22" speed="1.2"/>
+					<planet1 x="0.18112247" y="0.34913793" size="0.22" speed="1.16"/>
+					<planet1 x="0.5076531" y="0.33189654" size="0.22" speed="0.2"/>
+					<planet1 x="0.81887764" y="0.27586207" size="0.22" speed="0.2"/>
+					<planet1 x="0.21428575" y="0.12787357" size="0.22" speed="1.2"/>
+					<treat>
+						<planet1 x="0.5918368" y="0.12212644" size="0.22" speed="0.2"/>
+					</treat>
+				</challenge>
+				<challenge time="11">
+					<planet1 x="0.48724493" y="0.48132187" size="0.22" speed="0.8"/>
+					<treat>
+						<planet1 x="0.8061225" y="0.8663794" size="0.22" speed="0.87"/>
+					</treat>
+					<planet1 x="0.48724493" y="0.82614934" size="0.22" speed="0.92"/>
+					<planet1 x="0.17602043" y="0.7844828" size="0.22" speed="0.15"/>
+					<planet1 x="0.67857146" y="0.66810346" size="0.22" speed="0.15"/>
+					<planet1 x="0.35204086" y="0.6436782" size="0.22" speed="0.15"/>
+					<planet1 x="0.17346941" y="0.47557467" size="0.22" speed="0.15"/>
+					<planet1 x="0.7780613" y="0.47270116" size="0.22" speed="0.15"/>
+					<planet1 x="0.3443878" y="0.32758623" size="0.22" speed="0.15"/>
+					<planet1 x="0.6454082" y="0.30603448" size="0.22" speed="0.15"/>
+					<planet1 x="0.83418375" y="0.16091955" size="0.22" speed="0.15"/>
+					<planet1 x="0.21173473" y="0.1551724" size="0.22" speed="0.15"/>
+					<treat>
+						<planet1 x="0.5178572" y="0.10488506" size="0.22" speed="0.87"/>
+					</treat>
+				</challenge>
+			</level> <!-- x-02 -->
+		</extra>
+	</section> <!-- s-01 -->
+	<section>
+		<level>
+			<challenge>
+				<planet1 id="1" x="0.30612248" y="0.72998095" size="0.33" speed="0.64"/>
+				<planet1 id="2" x="0.65051025" y="0.34339634" size="0.45" speed="0.6"/>
+				<treat tipo="linea" idOrigen="1" idDestino="2" cuantos="4"/>
+			</challenge>
+			<challenge>
+				<planet1 id="1" x="0.3540052" y="0.3241279" size="0.33" speed="0.64"/>
+				<planet1 id="2" x="0.69166666" y="0.734375" size="0.45" speed="0.64"/>
+				<treat tipo="linea" idOrigen="2" idDestino="1" cuantos="5"/>
+			</challenge>
+			<challenge time="8">
+				<planet1 id="1" x="0.50387603" y="0.70348835" size="0.33" speed="0.64"/>
+				<planet1 id="2" x="0.49444443" y="0.24375" size="0.45" speed="0.64"/>
+				<treat tipo="linea" idOrigen="1" idDestino="2" cuantos ="6"/>
+			</challenge>
+		</level> <!-- n-006 -->
+		<level>
+			<challenge time="8">
+				<planet1 id="1" x="0.2481483" y="0.7459564" size="0.33" speed="0.7"/>
+				<planet1 id="2" x="0.6851852" y="0.22819852" size="0.45" speed="0.7"/>
+				<treat tipo="linea" idOrigen="1" idDestino="2" cuantos="5"/>
+			</challenge>
+			<challenge time="8">
+				<planet1 id="1" x="0.6925065" y="0.77761626" size="0.33" speed="0.7"/>
+				<planet1 id="2" x="0.31481484" y="0.21480528" size="0.45" speed="0.7"/>
+				<treat tipo="linea" idOrigen="1" idDestino="2" cuantos="5"/>
+			</challenge>
+			<challenge time="15">
+				<planet1 id="1" x="0.5" y="0.2020349" size="0.24" speed="0.7"/>
+				<planet1 id="2" x="0.5" y="0.7732558"  size="0.24" speed="0.7"/>
+				<treat tipo="linea" idOrigen="1" idDestino="2" cuantos="8"/>
+			</challenge>
+		</level> <!-- n-007 -->
+		<extra>
+			<level>
+				<challenge time="10">
+					<planet1 id="p1" x="0.19587632" y="0.1521739" size="0.22" speed="1.1"/>
+					<planet1 id="p4" x="0.76288664" y="0.8536232" size="0.22" speed="1.1"/>
+					<planet1 id="p2" x="0.2989691" y="0.72753626" size="0.22" speed="1.1"/>
+					<planet1 id="p3" x="0.6778351" y="0.32753626" size="0.22" speed="1.1"/>
+					<treat tipo="linea" idOrigen="p1" idDestino="p2"/>
+					<treat tipo="linea" idOrigen="p2" idDestino="p3"/>
+					<treat tipo="linea" idOrigen="p3" idDestino="p4"/>
+				</challenge>
+				<challenge time="10">
+					<planet1 id="p1" x="0.22938146" y="0.8391304" size="0.22" speed="1.0"/>
+					<planet1 id="p2" x="0.81701034" y="0.76086956" size="0.22" speed="1.1"/>
+					<planet1 id="p3" x="0.35309282" y="0.59710145" size="0.22" speed="1.2"/>
+					<planet1 id="p4" x="0.19587632" y="0.3057971" size="0.22" speed="1.22"/>
+					<planet1 id="p5" x="0.79123724" y="0.14782608" size="0.22" speed="1.24"/>
+					<treat tipo="linea" idOrigen="p1" idDestino="p2"/>
+					<treat tipo="linea" idOrigen="p2" idDestino="p3"/>
+					<treat tipo="linea" idOrigen="p3" idDestino="p5"/>
+					<treat tipo="linea" idOrigen="p5" idDestino="p4"/>
+				</challenge>
+			</level> <!-- x-03 -->
+		</extra>
+	</section> <!-- s-02 -->
+	<section>
+		<level>
+			<challenge time="15">
+				<planet1 x="0.5" y="0.5" size="0.38" direction="opposite"/>
+				<treat cuantos="8">
+					<planet1 x="0.75" y="0.2" size="0.3"/>
+					<planet1 x="0.25" y="0.2" size="0.3"/>
+					<planet1 x="0.75" y="0.8" size="0.3" direction="opposite"/>
+					<planet1 x="0.25" y="0.8" size="0.3"/>
+				</treat>
+			</challenge>
+			<challenge time="15">
+				<planet1 x="0.25"	y="0.225"		size="0.19"/>
+				<treat cuantos="7">
+					<planet1 x="0.5"		y="0.18"		size="0.19"/>
+					<planet1 x="0.75"	y="0.225"		size="0.19"/>
+					<planet1 x="0.25"	y="0.775" 	size="0.19"	direction="opposite"/>
+					<planet1 x="0.5"		y="0.82" 		size="0.19" 	direction="opposite"/>
+					<planet1 x="0.75"	y="0.775" 	size="0.19"	direction="opposite"/>
+				</treat>
+			</challenge>
+			<challenge time="10">
+					<planet1 x="0.72"	y="0.6359"	size="0.26" direction="opposite"/>
+					<treat cuantos="6" amplitud="240"  angle="350">
+						<planet1 x="0.37"	y="0.8"		size="0.26" direction="opposite"/>
+					</treat>
+					<treat cuantos="5" amplitud="140" angle="295">
+						<planet1 x="0.2028"	y="0.4"		size="0.26"/>
+					</treat>
+					<treat cuantos="5" amplitud="180" angle="165">
+						<planet1 x="0.4583"	y="0.1968" 	size="0.26" direction="opposite"/>
+					</treat>
+					<treat cuantos="5" amplitud="180" angle="0">
+						<planet1 x="0.8028"	y="0.1703" 	size="0.26"/>
+					</treat>
+			</challenge>
+		</level> <!-- n-012 -->
+		<level>
+			<challenge time="20">
+				<planet1 id="p1" x="0.75"	y="0.25"	size="0.25"/>
+				<planet1 id="p2" x="0.25"	y="0.25"	size="0.25" direction="opposite"/>
+				<planet1 id="p3" x="0.75"	y="0.75"	size="0.25"/>
+				<planet1 id="p4" x="0.25"	y="0.75"	size="0.25" direction="opposite"/>
+				<treat tipo="linea" idOrigen="p1" idDestino="p4" cuantos="10"/>
+				<treat tipo="linea" idOrigen="p2" idDestino="p3" cuantos="10"/>
+			</challenge>
+			<challenge time="20">
+				<planet1 id="p5" x="0.2"	y="0.84" 	size="0.26"/>
+				<planet1 id="p3" x="0.75"	y="0.67"	size="0.25"/>
+				<planet1 id="p4" x="0.3"	y="0.5"	size="0.15"/>
+				<planet1 id="p1" x="0.23"	y="0.34"	size="0.19"/>
+				<planet1 id="p2" x="0.8"	y="0.15"	size="0.25"/>
+				<treat tipo="linea" idOrigen="p1" idDestino="p2" cuantos="7"/>
+				<treat tipo="linea" idOrigen="p3" idDestino="p4" cuantos="4"/>
+				<treat tipo="linea" idOrigen="p4" idDestino="p5" cuantos="5"/>
+			</challenge>
+		</level> <!-- n-013 -->
+		<extra>
+			<level>
+				<challenge time="12">
+					<planet1 x="0.31377554" y="0.7284483" size="0.22" speed="1.1"/>
+					<planet1 x="0.77551025" y="0.6235632" size="0.22" speed="1.1"/>
+					<planet1 x="0.28826535" y="0.3390804" size="0.22" speed="1.1"/>
+					<planet1 x="0.71173480" y="0.2844827" size="0.22" speed="1.1"/>
+					<treat x="0.5612245" y="0.44252872"/>
+					<treat x="0.5382653" y="0.67528737"/>
+					<treat x="0.2831633" y="0.52011496"/>
+				</challenge>
+				<challenge time="18">
+					<planet1 x="0.5025511" y="0.78304595" size="0.22" speed="1.15"/>
+					<planet1 x="0.18622452" y="0.77442527" size="0.22" speed="1.15"/>
+					<planet1 x="0.82142866" y="0.7686782" size="0.22" speed="1.15"/>
+					<planet1 x="0.5025511" y="0.22270112" size="0.22" speed="1.15" direction="opposite"/>
+					<planet1 x="0.19132654" y="0.2198276" size="0.22" speed="1.15" direction="opposite"/>
+					<planet1 x="0.81377566" y="0.21408045" size="0.22" speed="1.15" direction="opposite"/>
+					<treat x="0.554932" y="0.4950072"/>
+					<treat x="0.35085037" y="0.58408767"/>
+					<treat x="0.73095244" y="0.6243175"/>
+					<treat x="0.2692177" y="0.40017956"/>
+					<treat x="0.53452384" y="0.64155895"/>
+					<treat x="0.6952382" y="0.31684628"/>
+					<treat x="0.49625856" y="0.3929957"/>
+					<treat x="0.19523811" y="0.65017956"/>
+					<treat x="0.81513613" y="0.47058186"/>
+				</challenge>
+			</level> <!-- x-05 -->
+		</extra>
+	</section> <!-- s-03 -->
+	<section>
+		<level>
+			<challenge border="rebote">
+				<planet1 id="p1" x="0.5" y="0.6529225" size="0.31" speed="0.58"/>
+				<planet1 id="p2" x="0.5" y="0.35762984" size="0.31" speed="0.58"/>
+				<treat tipo="rebote" idOrigen="p1" no="1" anguloPartida="150"/>
+				<treat tipo="rebote" idOrigen="p2" no="1" anguloPartida="330"/>
+			</challenge>
+			<challenge border="rebote">
+				<planet1 id="p1" x="0.5" y="0.84833676" size="0.31" speed="0.58"/>
+				<planet1 id="p2" x="0.5" y="0.17142001" size="0.31" speed="0.58"/>
+				<treat tipo="rebote" idOrigen="p1" no="1" anguloPartida="220"/>
+				<treat tipo="rebote" idOrigen="p2" no="1" anguloPartida="40"/>
+			</challenge>
+			<challenge border="rebote">
+				<planet1 id="p1" x="0.6227779" y="0.681149" size="0.31" speed="0.58"/>
+				<planet1 id="p2" x="0.42648152" y="0.2751216" size="0.31" speed="0.58"/>
+				<treat tipo="rebote" idOrigen="p1" no="1" anguloPartida="47"/>
+				<treat tipo="rebote" idOrigen="p2" no="1" anguloPartida="335"/>
+			</challenge>
+		</level> <!-- n-018 -->
+		<level>
+			<challenge border="rebote">
+				<planet1 id="p1" x="0.42963" y="0.75421226" size="0.22" speed="0.58" direction="opposite"/>
+				<planet1 id="p2" size="0.32" speed="0.58"/>
+				<treat tipo="rebote" idOrigen="p1" idDestino="p2" anguloPartida="210" no="2" distancia="0.4"/>
+			</challenge>
+			<challenge border="rebote">
+				<planet1 id="p1" x="0.7103705" y="0.5501129" size="0.22" speed="0.58"/>
+				<planet1 id="p2" size="0.32" speed="0.58" direction="opposite"/>
+				<treat tipo="rebote" idOrigen="p1" idDestino="p2" anguloPartida="327" no="2" distancia="0.61"/>
+			</challenge>
+			<challenge border="rebote">
+				<planet1 id="p1" x="0.3455556" y="0.34275663" size="0.22" speed="0.58"/>
+				<planet1 id="p2" size="0.28" speed="0.58" direction="opposite"/>
+				<treat tipo="rebote" idOrigen="p1" idDestino="p2" anguloPartida="297" no="2" distancia="0.5"/>
+			</challenge>
+		</level> <!-- n-019 -->
+		<extra>
+			<level>
+				<challenge border="rebote">
+					<planet1 id="p1" x="0.3571429" y="0.82327586" size="0.22" speed="0.87"/>
+					<planet1 id="p2" size="0.29" speed="0.87" direction="opposite"/>
+					<treat tipo="rebote" idOrigen="p1" idDestino="p2" anguloPartida="317" no="2" distancia="0.68"/>
+				</challenge>
+				<challenge border="rebote">
+					<planet1 id="p1" x="0.488665" y="0.8706906" size="0.29" speed="0.87"/>
+					<planet1 id="p2" size="0.29" speed="0.87" direction="opposite"/>
+					<treat tipo="rebote" no="4" idOrigen="p1" idDestino="p2" anguloPartida="340" distancia="0.5"/>
+				</challenge>
+			</level> <!-- x-07 -->
+		</extra>
+	</section> <!-- s-04 -->
+	<section>
+		<level>
+			<challenge>
+				<planet1 x="0.5" y="0.83862597" size="0.29" speed="0.9"/>
+				<treat coleccion="1">
+					<planet1 x="0.5" y="0.58705807" size="0.29" speed="0.9"/>
+				</treat>
+				<treat coleccion="0">
+					<planet1 x="0.5" y="0.164" size="0.29" speed="0.9"/>
+				</treat>
+			</challenge>
+			<challenge>
+				<planet1 x="0.7946297" y="0.83617777" size="0.27" speed="0.9"/>
+				<treat coleccion="2">
+					<planet1 x="0.5798149" y="0.62556446" size="0.27" speed="0.9"/>
+				</treat>
+				<treat coleccion="1">
+					<planet1 x="0.4464815" y="0.39323863" size="0.27" speed="0.9"/>
+				</treat>
+				<treat coleccion="0">
+					<planet1 x="0.28092596" y="0.1811056" size="0.29" speed="0.9"/>
+				</treat>
+			</challenge>
+			<challenge time="22">
+				<treat coleccion="3">
+					<planet1 x="0.2266667" y="0.87667185" size="0.28" speed="0.9"/>
+				</treat>
+				<treat coleccion="1">
+					<planet1 x="0.548889" y="0.7420531" size="0.28" speed="0.9"/>
+				</treat>
+				<treat coleccion="2">
+					<planet1 x="0.45629638" y="0.2708876" size="0.28" speed="0.9"/>7
+				</treat>
+				<treat coleccion="0">
+					<planet1 x="0.80444443" y="0.13844015" size="0.28" speed="0.9"/>
+				</treat>
+			</challenge>
+		</level> <!-- n-023 -->
+		<extra>
+			<!--
+			<level></level>
+			<level></level>
+			<level></level>
+			-->
+		</extra>
+	</section> <!-- s-05 -->
+	<section>
+		<level>
+			<challenge border="rebote">
+				<treat coleccion="3">
+				<treat coleccion="1">
+					<planet1 x="0.24846941" y="0.82553095" size="0.35" speed="1.0"/>
+				</treat>
+				</treat>
+				<planet2 x="0.5909184" y="0.51145303" size="0.39" speed="1.0" visits="3"
+					direction="opposite"/>
+				<treat coleccion="2">
+				<treat coleccion="0">
+					<planet1 x="0.71775514" y="0.1771762" size="0.34" speed="1.0"/>
+				</treat>
+				</treat>
+			</challenge>
+			<challenge border="rebote">
+				<treat coleccion="3">
+				<treat coleccion="1">
+					<planet1 x="0.5" y="0.88186055" size="0.26" speed="1.0"/>
+				</treat>
+				</treat>
+				<planet2 x="0.68408173" y="0.6559398" size="0.29" speed="1.0" visits="2" direction="opposite"/>
+				<planet2 x="0.37846944" y="0.449613" size="0.34" speed="1.0" visits="2" direction="opposite"/>
+				<treat coleccion="2">
+				<treat coleccion="0">
+					<planet1 x="0.5" y="0.10052154" size="0.31" speed="1.0"/>
+				</treat>
+				</treat>
+			</challenge>
+			<challenge border="rebote">
+				<treat coleccion="4">
+				<treat coleccion="2">
+					<planet1 x="0.33448985" y="0.8684174" size="0.31" speed="1.0"/>
+				</treat>
+				</treat>
+				<planet2 x="0.43602043" y="0.69149625" size="0.23" speed="1.0" visits="2"
+					direction="opposite"/>
+				<planet2 x="0.7782653" y="0.6737817" size="0.27" speed="1.0" visits="2"/>
+				<planet2 x="0.16887759" y="0.5362093" size="0.30" speed="1.0" visits="2"
+					direction="opposite"/>
+				<treat coleccion="3">
+				<treat coleccion="1">
+					<planet1 x="0.5451021" y="0.48606035" size="0.36" speed="1.0"/>
+				</treat>
+				</treat>
+				<planet2 x="0.69663274" y="0.27696344" size="0.27" speed="1.0" visits="2"/>
+				<planet2 x="0.2710204" y="0.28620252" size="0.31" speed="1.0" visits="2"
+					direction="opposite"/>
+				<treat coleccion="0">
+					<planet1 x="0.8266328" y="0.09121877" size="0.26" speed="1.0"/>
+				</treat>
+			</challenge>
+		</level> <!-- n-025 -->
+		<level>
+			<challenge border="rebote" time="27">
+				<treat coleccion="4">
+					<planet1 x="0.19" y="0.24939206" size="0.22" speed="1.0"/>
+				</treat>
+				<treat coleccion="2">
+				<treat coleccion="0">
+					<planet1 x="0.31962964" y="0.8247785" size="0.22" speed="1.0"/>
+				</treat>
+				</treat>
+				<treat coleccion="3">
+					<planet1 x="0.815926" y="0.7466128" size="0.22" speed="1.0"/>
+				</treat>
+				<planet2 x="0.5174075" y="0.5108129" size="0.38" direction="opposite" speed="0.9" visits="3"/>
+				<treat coleccion="1">
+					<planet1 x="0.8085185" y="0.29064617" size="0.22" speed="1.0"/>
+				</treat>
+			</challenge>
+			<challenge border="rebote" time="28">
+				<treat coleccion="5">
+				<treat coleccion="2">
+					<planet1 x="0.19928575" y="0.47169262" size="0.28" speed="0.95"
+						visits="2"/>
+				</treat>
+				</treat>
+				<planet2 x="0.42377555" y="0.6438967" size="0.28" speed="0.95" visits="2"/>
+				<planet2 x="0.58193886" y="0.8730032" size="0.28" speed="0.95" visits="2"
+					direction="opposite"/>
+				<planet2 x="0.22989796" y="0.85503405" size="0.28" speed="0.95"
+					direction="opposite"/>
+				<treat coleccion="4">
+					<treat coleccion="1">
+						<planet1 x="0.7707144" y="0.70079905" size="0.28" speed="0.95"/>
+					</treat>
+				</treat>
+				<planet2 x="0.7732653" y="0.4672003" size="0.28" speed="0.95" visits="2"
+					direction="opposite"/>
+				<planet2 x="0.5130613" y="0.32494473" size="0.28" speed="0.95" visits="2"/>
+				<planet2 x="0.17887758" y="0.23959139" size="0.28" speed="0.95" visits="2"
+					direction="opposite"/>
+				<treat coleccion="3">
+					<treat coleccion="0">
+						<planet1 x="0.81918377" y="0.21563254" size="0.28" speed="0.95"/>
+					</treat>
+				</treat>
+				<planet2 x="0.49520415" y="0.091346055" size="0.28" speed="0.95" visits="2"
+					direction="opposite"/>
+			</challenge>
+		</level> <!-- n-026 -->
+		<extra>
+			<level>
+				<challenge border="rebote" time="7">
+					<planet1 x="0.5128206" y="0.14285712" size="0.31" speed="1.15"/>
+					<planet2 id="p1" x="0.5205129" y="0.8441559" size="0.31" speed="1.15"
+						visits="1"/>
+					<planet2 id="p2" x="0.5128206" y="0.5353536" size="0.31" speed="1.15"
+						visits="1"/>
+					<treat coleccion="0" tipo="linea" idOrigen="p1" idDestino="p2"/>
+					<treat coleccion="1" tipo="linea" idOrigen="p2" idDestino="p1"/>
+				</challenge>
+				<challenge border="rebote" time="20">
+					<planet1 x="0.8358975" y="0.7344877" size="0.24" speed="1.1"
+						direction="opposite"/>
+					<planet2 x="0.23333338" y="0.84271276" size="0.24" speed="1.1" visits="2"/>
+					<planet2 x="0.5564103" y="0.84271276" size="0.24" speed="1.1" visits="1"/>
+					<planet2 x="0.20769234" y="0.23665226" size="0.24" speed="1.1" visits="2"/>
+					<planet2 x="0.7820513" y="0.1731602" size="0.24" speed="1.1" visits="2"/>
+					<planet2 x="0.48205134" y="0.15584417" size="0.24" speed="1.1" visits="1"/>
+					<treat x="0.47307697" y="0.45670542"/>
+					<treat x="0.6884616" y="0.6082206"/>
+					<treat x="0.52435905" y="0.6616117"/>
+					<treat x="0.6679488" y="0.31384832"/>
+					<treat x="0.26794875" y="0.6139926"/>
+					<treat x="0.248718" y="0.42424244"/>
+				</challenge>
+			</level> <!-- x-12 -->
+		</extra>
+	</section> <!-- s-06 -->
+	<section>
+		<level>
+			<challenge>
+				<planet1 x="0.14166667" y="0.5749739" size="0.17" speed="1.0"/>
+				<treat coleccion="1">
+					<planet1 x="0.44722223" y="0.69385093" size="0.17" speed="1.0"/>
+				</treat>
+				<planet1 x="0.80277777" y="0.64174044" size="0.17" speed="1.0"/>
+				<planet2 x="0.58935905" y="0.5531371" size="0.17" speed="1.0" visits="2"/>
+				<planet2 x="0.36884618" y="0.48094943" size="0.17" speed="1.0" visits="2"/>
+				<treat coleccion="0">
+					<planet1 x="0.87222224" y="0.4560969" size="0.17" speed="1.0"/>
+				</treat>
+				<planet2 x="0.6278206" y="0.405754" size="0.17" speed="1.0" visits="2"/>
+				<treat coleccion="3">
+					<planet1 x="0.18888889" y="0.3746743" size="0.17" speed="1.0"/>
+				</treat>
+				<treat coleccion="2">
+					<planet1 x="0.76944447" y="0.2753387" size="0.17" speed="1.0"/>
+				</treat>
+				<planet1 x="0.41944444" y="0.26393956" size="0.17" speed="1.0"/>
+			</challenge>
+			<challenge>
+				<planet1 x="0.29102042" y="0.8609601" size="0.27" speed="1.0"/>
+				<planet2 x="0.6981633" y="0.8932672" size="0.17" speed="1.0" visits="3"/>
+				<treat coleccion="0">
+					<planet1 x="0.8160204" y="0.7318631" size="0.22" speed="1.0"/>
+				</treat>
+				<planet2 x="0.24408165" y="0.71058095" size="0.17" speed="1.0" visits="3"/>
+				<planet2 x="0.51959187" y="0.6776375" size="0.17" speed="1.0" visits="1"/>
+				<treat coleccion="1">
+					<planet1 x="0.18622452" y="0.55236274" size="0.25" speed="1.0"  direction="opposite"/>
+				</treat>
+				<planet2 x="0.5272449" y="0.48147452" size="0.17" speed="1.0" visits="1" direction="opposite"/>
+				<treat coleccion="2">
+					<planet1 x="0.8542858" y="0.49377215" size="0.22" speed="1.0"/>
+				</treat>
+				<planet2 x="0.26959187" y="0.37216234" size="0.17" speed="1.0" visits="3" direction="opposite"/>
+				<planet2 x="0.8869389" y="0.31076783" size="0.17" speed="1.0" visits="3"/>
+				<planet2 x="0.53234696" y="0.2808193" size="0.17" speed="1.0" visits="1"/>
+				<treat coleccion="3">
+					<planet1 x="0.2395919" y="0.18836066" size="0.23" speed="1.0"/>
+				</treat>
+				<treat coleccion="4">
+					<planet1 x="0.7324491" y="0.10781774" size="0.28" speed="1.0"  direction="opposite"/>
+				</treat>
+				<planet2 x="0.45030617" y="0.114" size="0.17" speed="1.0" visits="3"/>
+			</challenge>
+			<challenge time="30">
+				<treat coleccion="1">
+					<planet1 x="0.44081637" y="0.09982149" size="0.20" speed="1.0"/>
+				</treat>
+				<treat coleccion="0">
+					<planet1 x="0.7384694" y="0.8495236" size="0.22" speed="1.0"/>
+				</treat>
+				<planet1 x="0.37602043" y="0.8494898" size="0.35" speed="1.0"/>
+				<treat coleccion="4">
+					<planet1 x="0.85336727" y="0.6788804" size="0.21" speed="1.0"/>
+				</treat>
+				<treat coleccion="5">
+					<planet1 x="0.27132657" y="0.6262159" size="0.25" speed="1.0"/>
+				</treat>
+				<planet1 x="0.1343878" y="0.441044" size="0.17" speed="1.0"/>
+				<treat coleccion="2">
+					<planet1 x="0.81377566" y="0.4505377" size="0.25" speed="1.0"/>
+				</treat>
+				<planet1 x="0.8746939" y="0.26766068" size="0.22" speed="1.0"/>
+				<treat coleccion="3">
+					<planet1 x="0.18204087" y="0.22949123" size="0.30" speed="1.0"/>
+				</treat>
+				<planet1 x="0.7469388" y="0.060888376" size="0.20" speed="1.0"/>
+				<planet2 x="0.5676531" y="0.6219781" size="0.21" speed="1.0" visits="2" direction="opposite"/>
+				<planet2 x="0.47948986" y="0.4205255" size="0.24" speed="1.0" visits="2" direction="opposite"/>
+				<planet2 x="0.5786735" y="0.23764846" size="0.21" speed="1.0" visits="2" direction="opposite"/>
+			</challenge>
+		</level> <!-- n-030 -->
+		<extra>
+			<level>
+				<challenge>
+					<planet2 x="0.52295923" y="0.6824713" size="0.22" speed="1.0" visits="2"/>
+					<planet2 x="0.19897962" y="0.43247128" size="0.22" speed="1.0" visits="2"/>
+					<planet2 x="0.7397959" y="0.31896552" size="0.22" speed="1.0" visits="2"/>
+					<treat x="0.39676875" y="0.5567888"/>
+					<treat x="0.63520414" y="0.54310346"/>
+					<treat x="0.47704086" y="0.3994253"/>
+					<treat x="0.28061226" y="0.5215517"/>
+					<treat x="0.6428572" y="0.44109195"/>
+					<treat x="0.40561226" y="0.6063218"/>
+					<treat x="0.3559524" y="0.38724858"/>
+				</challenge>
+				<challenge>
+					<planet2 x="0.83418375" y="0.78304595" size="0.22" speed="1.0" visits="2"/>
+					<planet2 x="0.15561225" y="0.77729887" size="0.22" speed="1.0" visits="1"/>
+					<planet2 x="0.49234703" y="0.7729885" size="0.22" speed="1.0" visits="2"/>
+					<planet2 x="0.48724493" y="0.2729885" size="0.22" speed="1.0" visits="1" direction="opposite"/>
+					<planet2 x="0.15561225" y="0.27155176" size="0.22" speed="1.0" visits="2" direction="opposite"/>
+					<planet2 x="0.80357146" y="0.2658046" size="0.22" speed="1.0" visits="2" direction="opposite"/>
+					<treat x="0.50901365" y="0.5582256"/>
+					<treat x="0.21309525" y="0.4389727"/>
+					<treat x="0.27176872" y="0.601329"/>
+					<treat x="0.804932" y="0.39730605"/>
+					<treat x="0.52295923" y="0.41810346"/>
+					<treat x="0.6952382" y="0.62000716"/>
+					<treat x="0.35204086" y="0.4827586"/>
+				</challenge>
+			</level> <!-- x-16 -->
+		</extra>
+	</section> <!-- s-07 -->
+	<section>
+		<level>
+			<challenge border="traslado">
+				<planet1 id="p1" x="0.52" y="0.670977" size="0.33" speed="1.0"/>
+				<planet1 id="p2" x="0.49" y="0.34626436" size="0.27" speed="1.0"
+					direction="opposite"/>
+				<treat coleccion="0" tipo="linea" idOrigen="p1" xf="0.5" yf="1"/>
+				<treat coleccion="0" tipo="linea" idOrigen="p2" xf="0.5" yf="0"/>
+				<treat coleccion="1" tipo="linea" idOrigen="p1" idDestino="p2"/>
+			</challenge>
+			<challenge border="traslado">
+				<treat coleccion="1">
+					<planet1 id="p1" x="0.33163264" y="0.61494255" size="0.27" speed="1.0"/>
+				</treat>
+				<treat>
+					<planet1 x="0.67602044" y="0.4295977" size="0.33" speed="1.0"
+						direction="opposite"/>
+				</treat>
+				<treat tipo="rebote" idOrigen="p1" no="1" anguloPartida="74"/>
+			</challenge>
+			<challenge border="traslado">
+				<planet1 id="p1" x="0.6862245" y="0.8045977" size="0.27" speed="0.88"/>
+				<planet1 id="p2" x="0.3367347" y="0.2349654" size="0.33" speed="0.88"/>
+				<treat tipo="rebote" idOrigen="p1" no="1" anguloPartida="215"/>
+				<treat tipo="linea" idOrigen="p2" xf="0.98" yf="0.50890805"/>
+			</challenge>
+		</level> <!-- n-033 -->
+		<level>
+			<challenge time="10" border="traslado">
+				<treat coleccion="1">
+				<treat coleccion="3">
+					<planet1 x="0.19428575" y="0.52873564" size="0.2998" speed="1.2"/>
+				</treat>
+				</treat>
+				<treat coleccion="0">
+				<treat coleccion="2">
+				<treat coleccion="4">
+					<planet1 x="0.8284695" y="0.52442527" size="0.3" speed="1.2"/>
+				</treat>
+				</treat>
+				</treat>
+			</challenge>
+			<challenge time="14" border="traslado">
+				<treat coleccion="1">
+				<treat coleccion="3">
+					<planet1 x="0.2193878" y="0.829023" size="0.33" speed="1.0"/>
+				</treat>
+				</treat>
+				<treat coleccion="0">
+				<treat coleccion="2">
+				<treat coleccion="4">
+					<planet1 x="0.732143" y="0.16954021" size="0.35" speed="1.0"/>
+				</treat>
+				</treat>
+				</treat>
+			</challenge>
+		</level> <!-- n-034 -->
+		<extra>
+			<!--
+			<level></level>
+			<level></level>
+			<level></level>
+			-->
+		</extra>
+	</section> <!-- s-08 -->
+	<section>
+		<level>
+			<challenge time="19">
+				<treat coleccion="1">
+					<planet1 x="0.5076531" y="0.8160919" size="0.3" speed="1.0"/>
+				</treat>
+				<planet3 x="0.49744904" y="0.50431037" size="0.3" speed="1.15"/>
+				<treat coleccion="0">
+					<planet1 x="0.5153062" y="0.16091955" size="0.3" speed="1.0"/>
+				</treat>
+			</challenge>
+			<challenge time="30">
+				<treat coleccion="3">
+					<planet1 x="0.23469391" y="0.6896552" size="0.27" speed="1.12"/>
+				</treat>
+				<treat coleccion="1">
+					<planet1 x="0.82142866" y="0.5531609" size="0.22" speed="1.1"/>
+				</treat>
+				<treat coleccion="2">
+					<treat coleccion="0">
+						<planet1 x="0.39795923" y="0.1795977" size="0.22" speed="1.1"/>
+					</treat>
+				</treat>
+				<planet3 x="0.43367353" y="0.41379315" size="0.33" speed="1.1"/>
+			</challenge>
+			<challenge>
+				<treat coleccion="2">
+					<planet1 x="0.5153062" y="0.8864943" size="0.22" speed="1.11"/>
+				</treat>
+				<planet3 x="0.5204082" y="0.6954023" size="0.22" speed="1.11" direction="opposite"/>
+				<treat coleccion="0">
+					<planet1 x="0.5178572" y="0.4899425" size="0.22" speed="1.11"/>
+				</treat>
+				<planet3 x="0.5204082" y="0.29597703" size="0.22" speed="1.11" direction="opposite"/>
+				<treat coleccion="1">
+					<planet1 x="0.5178572" y="0.10057471" size="0.22" speed="1.11"/>
+				</treat>
+			</challenge>
+		</level> <!-- n-040 -->
+		<extra>
+			<!--
+			<level></level>
+			<level></level>
+			<level></level>
+			-->
+		</extra>
+	</section> <!-- s-09 -->
+	<section>
+		<level>
+			<challenge time="6" border="traslado">
+				<planet1 x="0.7270409" y="0.8764368" size="0.22" speed="1.0"/>
+				<planet3 x="0.30102044" y="0.71695405" size="0.22" speed="1.0" picosVel="2 2 2"/>
+				<planet3 x="0.67857146" y="0.50143677" size="0.22" speed="1.0" picosVel="2 2 2"
+					direction="opposite"/>
+				<treat>
+					<planet3 x="0.35459188" y="0.22701149" size="0.22" speed="1.0" picosVel="2 2 2"/>
+				</treat>
+			</challenge>
+			<challenge time="12" border="traslado">
+				<treat coleccion="2" cuantos="1" angle="0">
+				<treat coleccion="1" cuantos="1" angle="0">
+					<planet1 x="0.5204082" y="0.14798851" size="0.22" speed="1.22"/>
+				</treat>
+				</treat>
+				<treat coleccion="0" cuantos="1" angle="180">
+				<treat coleccion="3" cuantos="1" angle="180">
+					<planet1 x="0.62244904" y="0.87787354" size="0.22" speed="1.22"/>
+				</treat>
+				</treat>
+				<planet3 x="0.22193882" y="0.7313218" size="0.22" speed="1.0" picosVel="2 2 2"/>
+				<planet3 x="0.61734706" y="0.61494255" size="0.22" speed="1.0" picosVel="2 2 2"/>
+				<planet3 x="0.2602041" y="0.4396552" size="0.22" speed="1.0" picosVel="2 2 2"
+					direction="opposite"/>
+				<planet3 x="0.76020414" y="0.38362068" size="0.22" speed="1.0" picosVel="2 2 2"/>
+			</challenge>
+			<challenge border="traslado">
+				<treat coleccion="2" cuantos="1" angle="190">
+					<planet1 x="0.3852041" y="0.16235633" size="0.25" speed="1.0"/>
+				</treat>
+				<treat coleccion="4" cuantos="1" angle="182">
+				<treat coleccion="1" cuantos="1" angle="180">
+					<planet1 x="0.33928573" y="0.83" size="0.24" speed="1.0"/>
+				</treat>
+				</treat>
+				<treat coleccion="3" cuantos="1" angle="172">
+				<treat coleccion="0" cuantos="1" angle="165">
+					<planet1 x="0.78030616" y="0.49406967" size="0.25" speed="1.0"/>
+				</treat>
+				</treat>
+				<planet3 x="0.72193885" y="0.86206895" size="0.17" speed="1.0"
+					picosVel="2.2 2.2 2.2" direction="opposite"/>
+				<planet3 x="0.60969394" y="0.6594828" size="0.18" speed="1.0"
+					picosVel="2.1 2.0 2.1" direction="opposite"/>
+				<planet3 x="0.30612248" y="0.58477014" cuantos="6" size="0.22" speed="1.0"
+					picosVel="2.2 2.2 2.2" direction="opposite"/>
+				<planet3 x="0.2266327" y="0.375" size="0.17" speed="1.0"
+					picosVel="2.2 2.2 2.2" direction="opposite"/>
+				<planet3 x="0.5943878" y="0.31752872" cuantos="6" size="0.21" speed="1.0"
+					picosVel="2.2 2.2 2.2" direction="opposite"/>
+				<planet3 x="0.8163267" y="0.13505745" size="0.18" speed="1.0"
+					picosVel="2.2 2.2 2.2" direction="opposite"/>
+			</challenge>
+		</level> <!-- n-044 -->
+		<level>
+			<challenge time="12" border="rebote">
+				<treat coleccion="1">
+					<planet1 x="0.5153062" y="0.8089081" size="0.26" speed="1.15"/>
+				</treat>
+				<planet3 x="0.48979598" y="0.5114943" size="0.26" cuantos="7" speed="1.21"
+					picosVel="2 2 2 2 2 2 2" direction="opposite"/>
+				<treat coleccion="0">
+					<planet1 x="0.49489802" y="0.19252872" size="0.26" speed="1.15"/>
+				</treat>
+			</challenge>
+			<challenge border="rebote" time="12">
+				<planet1 x="0.24234696" y="0.8764368" size="0.22" speed="1.0"/>
+				<planet3 x="0.48979598" y="0.67672414" size="0.26" speed="1.0" cuantos="6"
+					picosVel="2 2.5 2 2.5 2 2.5"/>
+				<planet3 x="0.18857147" y="0.58321124" size="0.19" speed="1.0" cuantos="6"
+					picosVel="2 2.5 2 2.5 2 2.5"/>
+				<treat coleccion="0">
+					<planet1 x="0.54591846" y="0.4353448" size="0.22" speed="1.0"
+						direction="opposite"/>
+				</treat>
+				<treat coleccion="1">
+					<planet1 x="0.74744904" y="0.14655173" size="0.22" speed="1.0"/>
+				</treat>
+			</challenge>
+			<challenge time="14" border="rebote">
+				<treat coleccion="1">
+					<planet1 x="0.45918372" y="0.8908046" size="0.24" speed="1.1"/>
+				</treat>
+				<planet3 x="0.8443878" y="0.80603445" cuantos="7" size="0.18" speed="1.0"
+					picosVel="2 2 2 2 2 2 2"/>
+				<planet3 x="0.49744904" y="0.66810346" cuantos="7" size="0.17" speed="1.0"
+					picosVel="2 2 2 2 2 2 2" direction="opposite"/>
+				<planet3 x="0.7933673" y="0.59770113" cuantos="7" size="0.26" speed="1.0"
+					picosVel="2 2 2 2 2 2 2"/>
+				<planet3 x="0.27040815" y="0.5545977"  cuantos="7" size="0.14" speed="1.0"
+					picosVel="2 2 2 2 2 2 2" direction="opposite"/>
+				<planet3 x="0.8010205" y="0.38936782" cuantos="5" size="0.18" speed="1.0"
+					picosVel="2 2 2 2 2 2 2"/>
+				<planet3 x="0.49234703" y="0.39511496" cuantos="7" size="0.22" speed="1.0"
+					picosVel="2 2 2 2 2 2 2"/>
+				<planet3 x="0.7933673" y="0.22270112" cuantos="7"  size="0.16" speed="1.0"
+					picosVel="2 2 2 2 2 2 2"/>
+				<treat coleccion="0">
+					<planet1 x="0.5586735" y="0.123563245" size="0.22" speed="1.1"/>
+				</treat>
+			</challenge>
+		</level> <!-- n-045 -->
+		<extra>
+			<!--
+			<level></level>
+			<level></level>
+			<level></level>
+			-->
+		</extra>
+	</section> <!-- s-10 -->
+	<section>
+		<level>
+            <advice imagePath="cambiar-direction.png">Desliza el dedo por la pantalla
+				horizontalmente y observa el cambio en la rotación de los planets.</advice>
+            <challenge time="8">
+                <planet1 x="0.48148984" y="0.8376436" size="0.25" speed="0.87"/>
+                <treat cuantos="3" angle="125" amplitud="90">
+                    <planet1 x="0.4822449" y="0.62625355" size="0.25" speed="0.87"/>
+                    <planet1 x="0.4821429" y="0.4066092" size="0.24" speed="0.87"/>
+                    <planet1 x="0.48173473" y="0.1708549" size="0.24" speed="0.87"/>
+                </treat>
+            </challenge>
+            <challenge time="10">
+                <planet1 x="0.44132656" y="0.8275862" size="0.22" speed="1.0"/>
+                <treat cuantos="1" angle="21">
+                    <planet1 x="0.55102044" y="0.6034483" size="0.25" speed="0.8"
+						direction="opposite"/>
+                </treat>
+                <treat cuantos="1" angle="180">
+                    <planet1 x="0.3852041" y="0.39367816" size="0.25" speed="0.8"/>
+                </treat>
+                <treat cuantos="1" angle="347">
+                    <planet1 x="0.6579592" y="0.19959053" size="0.28" speed="0.8"
+						direction="opposite"/>
+                </treat>
+            </challenge>
+            <challenge time="15">
+                <planet1 x="0.46938783" y="0.5589081" size="0.29" speed="0.95"/>
+                <treat cuantos="1" angle="101" coleccion="0">
+                    <planet1 x="0.6913267" y="0.8706896" size="0.22" speed="0.75"
+						direction="opposite"/>
+                </treat>
+                <treat cuantos="1" angle="345" coleccion="0">
+                    <planet1 x="0.31887758" y="0.7758621" size="0.26" speed="0.75"/>
+                </treat>
+                <treat cuantos="1" angle="52" coleccion="1">
+                    <planet1 x="0.69387764" y="0.34626436" size="0.26" speed="0.75"/>
+                </treat>
+                <treat cuantos="1" angle="305" coleccion="1">
+                    <planet1 x="0.3212245" y="0.15936065" size="0.24" speed="0.75"/>
+                </treat>
+            </challenge>
+		</level> <!-- n-048 -->
+        <level>
+            <challenge>
+                <planet1 x="0.58163273" y="0.8663794" size="0.22" speed="1.0"/>
+                <treat cuantos="1" angle="357">
+                    <planet1 x="0.32908165" y="0.7241379" size="0.22" speed="1.0" direction="opposite"/>
+                </treat>
+                <treat cuantos="1" angle="210">
+                    <planet1 x="0.7295919" y="0.6178161" size="0.22" speed="1.0"/>
+                </treat>
+                <treat cuantos="1" angle="272">
+                    <planet1 x="0.56887764" y="0.45689654" size="0.22" speed="1.0" direction="opposite"/>
+                </treat>
+                <treat cuantos="1" angle="92">
+                    <planet1 x="0.2321429" y="0.4454023" size="0.22" speed="1.0"/>
+                </treat>
+                <treat cuantos="1" angle="217">
+                    <planet1 x="0.81377566" y="0.2729885" size="0.22" speed="1.0"/>
+                </treat>
+                <treat cuantos="1" angle="47">
+                    <planet1 x="0.4183674" y="0.21551724" size="0.22" speed="1.0" direction="opposite"/>
+                </treat>
+            </challenge>
+            <challenge time="14">
+                <planet1 x="0.5663266" y="0.5445402" size="0.23" speed="1.0"/>
+                <treat coleccion="1" cuantos="3" angle="72" amplitud="90">
+                    <planet1 x="0.36479595" y="0.7887931" size="0.25" speed="1.0"/>
+                </treat>
+                <treat coleccion="5" cuantos="3" angle="15" amplitud="90">
+                <treat coleccion="0" cuantos="3" angle="15" amplitud="90">
+                    <planet1 x="0.7933673" y="0.7385057" size="0.28" speed="1.0"/>
+                </treat>
+                </treat>
+                <treat coleccion="2" cuantos="3" angle="122" amplitud="90">
+                    <planet1 x="0.20887756" y="0.5501042" size="0.25" speed="1.0"/>
+                </treat>
+                <treat coleccion="4" cuantos="3" angle="255" amplitud="90">
+                    <planet1 x="0.78265315" y="0.38331538" size="0.27" speed="1.0"/>
+                </treat>
+                <treat coleccion="3" cuantos="3" angle="195" amplitud="90">
+                    <planet1 x="0.3214286" y="0.31609195" size="0.31" speed="1.0"/>
+                </treat>
+            </challenge>
+			<challenge time="17">
+				<treat coleccion="1" cuantos="3" angle="315" amplitud="90">
+					<planet1 x="0.34693882" y="0.8548851" size="0.22" speed="0.87"/>
+				</treat>
+				<treat coleccion="0" cuantos="3" angle="315" amplitud="90">
+					<treat coleccion="1" cuantos="3" angle="315" amplitud="90">
+						<planet1 x="0.5612245" y="0.66810346" size="0.22" speed="0.97" direction="opposite"/>
+						<planet1 x="0.23724492" y="0.46264368" size="0.22" speed="0.97" direction="opposite"/>
+						<planet1 x="0.51020414" y="0.3031609" size="0.22" speed="0.97" direction="opposite"/>
+					</treat>
+					<planet1 x="0.7984695" y="0.1551724" size="0.22" speed="0.97" direction="opposite"/>
+				</treat>
+			</challenge>
+        </level> <!-- n-049 -->
+		<extra>
+			<!--
+			<level></level>
+			<level></level>
+			<level></level>
+			-->
+		</extra>
+	</section> <!-- s-11 -->
+	<section>
+		<level>
+			<challenge time="12">
+				<treat efecto="de1">
+					<planet1 x="0.4970467" y="0.20991254" size="0.28" speed="1.0"/>
+				</treat>
+				<treat>
+					<planet1 x="0.49222803" y="0.8367348" size="0.28" speed="1.0"/>
+				</treat>
+				<treatEfecto id="de1" angle="180">
+					<planet1 x="0.4974093" y="0.5233236" size="0.28" speed="1.0"/>
+				</treatEfecto>
+			</challenge>
+			<challenge>
+				<treat efecto="de1">
+					<planet1 x="0.35367352" y="0.81410563" size="0.31" speed="1.0"/>
+				</treat>
+				<treatEfecto id="de1" angle="172">
+					<planet1 x="0.6734695" y="0.52873564" size="0.32" speed="1.0" direction="opposite"/>
+				</treatEfecto>
+				<treat>
+					<planet1 x="0.35459188" y="0.22701149" size="0.33" speed="1.0"/>
+				</treat>
+			</challenge>
+			<challenge time="11">
+				<treat efecto="de1">
+					<planet1 x="0.2668394" y="0.41982508" size="0.28" speed="1.0"/>
+				</treat>
+				<treatEfecto id="de1" angle="115">
+					<planet1 x="0.6761659" y="0.6428572" size="0.29" speed="1.0"/>
+				</treatEfecto>
+				<treat>
+					<planet1 x="0.29015547" y="0.84256554" size="0.27" speed="0.88"/>
+				</treat>
+				<treat efecto="de1">
+					<planet1 x="0.66839385" y="0.19825073" size="0.31" speed="1.0"/>
+				</treat>
+			</challenge>
+		</level> <!-- n-051 -->
+		<level>
+			<challenge time="11">
+				<treat efecto="de1">
+					<planet1 x="0.34693882" y="0.8563218" size="0.28" speed="1.0"/>
+				</treat>
+				<treat>
+					<planet1 x="0.6556123" y="0.704023" size="0.27" speed="1.0" direction="opposite"/>
+				</treat>
+				<treat efecto="de3">
+					<planet1 x="0.28826535" y="0.5316092" size="0.22" speed="1.0"/>
+				</treat>
+				<treatEfecto id="de2" angle="361">
+					<planet1 x="0.59948987" y="0.42241377" size="0.25" speed="1.0"/>
+				</treatEfecto>
+				<treat efecto="de2">
+					<planet1 x="0.82204095" y="0.25" size="0.18" speed="1.0"/>
+				</treat>
+				<treatEfecto id="de1" angle="197">
+					<planet1 x="0.2321429" y="0.2729885" size="0.28" speed="1.0"/>
+				</treatEfecto>
+				<treatEfecto id="de3" angle="184">
+					<planet1 x="0.5484695" y="0.12931034" size="0.22" speed="1.0"/>
+				</treatEfecto>
+			</challenge>
+			<challenge time="15">
+				<planet1 x="0.40306124" y="0.7801724" size="0.22" speed="1.0"/>
+				<treat efecto="de1">
+				<treat efecto="de2">
+				<treat efecto="de3">
+					<planet1 x="0.6581633" y="0.62068963" size="0.22" speed="1.0"/>
+					<treatEfecto id="de1" angle="121">
+						<planet1 x="0.28571433" y="0.49425286" size="0.22" speed="1.0" direction="opposite"/>
+					</treatEfecto>
+					<treatEfecto id="de2" angle="47">
+						<planet1 x="0.6581633" y="0.37787357" size="0.22" speed="1.0"/>
+					</treatEfecto>
+					<treatEfecto id="de3" angle="12">
+						<planet1 x="0.40306124" y="0.23706894" size="0.22" speed="1.0"/>
+					</treatEfecto>
+				</treat>
+				</treat>
+				</treat>
+				<treat>
+					<planet1 x="0.7704082" y="0.19971263" size="0.22" speed="1.0" direction="opposite"/>
+				</treat>
+			</challenge>
+		</level> <!-- n-052 -->
+		<extra>
+			<!--
+			<level></level>
+			<level></level>
+			<level></level>
+			...
+			-->
+		</extra>
+	</section> <!-- s-12 -->
+	<section>
+		<level>
+			<challenge time="10">
+				<treat coleccion="1">
+					<planet1 x="0.31377554" y="0.79022986" size="0.31" speed="1.0"/>
+				</treat>
+				<planet4 x="0.63520414" y="0.5531609" size="0.36" direction="opposite"/>
+				<treat coleccion="2">
+				<treat coleccion="0">
+					<planet1 x="0.4209184" y="0.2801724" size="0.33" speed="1.0"/>
+				</treat>
+				</treat>
+			</challenge>
+			<challenge time="17">
+				<treat coleccion="1">
+					<planet1 x="0.2801531" y="0.28995508" size="0.28" speed="1.0"/>
+				</treat>
+				<treat coleccion="3">
+					<planet1 x="0.28826535" y="0.71695405" size="0.25" speed="1.0"/>
+				</treat>
+				<treat coleccion="0">
+					<planet1 x="0.74994904" y="0.6723833" size="0.24" speed="1.0"/>
+				</treat>
+				<planet4 x="0.5204082" y="0.49856323" size="0.34" direction="opposite"/>
+				<treat coleccion="2">
+					<planet1 x="0.7806123" y="0.27011493" size="0.26" speed="1.0"/>
+				</treat>
+			</challenge>
+			<challenge time="16">
+				<treat coleccion="2">
+					<planet1 x="0.83418375" y="0.69827586" size="0.26" speed="1.17"/>
+				</treat>
+				<treat coleccion="3">
+				<treat coleccion="0">
+					<planet1 x="0.20555556" y="0.7734375" size="0.24" speed="1.17"/>
+				</treat>
+				</treat>
+				<planet4 x="0.47959188" y="0.59626436" size="0.37" direction="opposite"/>
+				<treat coleccion="4">
+				<treat coleccion="1">
+					<planet1 x="0.4183674" y="0.3591954" size="0.29" speed="1.21"/>
+				</treat>
+				</treat>
+			</challenge>
+		</level> <!-- n-059 -->
+		<level>
+			<challenge time="18">
+				<planet1 id="p1" x="0.35833332" y="0.7890625" size="0.24" speed="1.0"/>
+				<planet4 x="0.73333335" y="0.734375" size="0.27" direction="opposite"/>
+				<planet4 id="p4" x="0.30833334" y="0.5375" size="0.27" direction="opposite"/>
+				<treat coleccion="5" cuantos="1" angle="0">
+					<planet1 id="p2" x="0.7277778" y="0.5078125" size="0.24" speed="1.0"/>
+				</treat>
+				<planet1 id="p3" x="0.3" y="0.2703125" size="0.26" speed="1.0"/>
+				<planet4 x="0.69311225" y="0.2610363" size="0.31" direction="opposite"/>
+				<treat coleccion="0" tipo="linea" idOrigen="p1" idDestino="p2"/>
+				<treat coleccion="1" tipo="linea" idOrigen="p2" idDestino="p3"/>
+				<treat coleccion="2" tipo="linea" idOrigen="p3" idDestino="p4"/>
+				<treat coleccion="3" tipo="linea" idOrigen="p4" idDestino="p1"/>
+				<treat coleccion="4" tipo="linea" idOrigen="p4" idDestino="p2"/>
+			</challenge>
+			<challenge time="20">
+				<planet1 id="p1" x="0.5943878" y="0.8678161" size="0.235" speed="1.12"/>
+				<planet4 id="p2" x="0.74918375" y="0.6954023" size="0.24" direction="opposite"/>
+				<planet1 id="p3" x="0.41071433" y="0.60775864" size="0.24" speed="1.16"/>
+				<planet1 id="p4" x="0.5937756" y="0.4382184" size="0.24" speed="1.18"/>
+				<planet4 id="p5" x="0.3571429" y="0.29166666" size="0.235" direction="opposite"/>
+				<planet1 id="p6" x="0.5331633" y="0.11781609" size="0.24" speed="1.22"/>
+				<treat coleccion="0" tipo="linea" cuantos="1" idOrigen="p1" idDestino="p2"/>
+				<treat coleccion="1" tipo="linea" cuantos="1" idOrigen="p2" idDestino="p3"/>
+				<treat coleccion="2" tipo="linea" cuantos="1" idOrigen="p3" idDestino="p4"/>
+				<treat coleccion="3" tipo="linea" cuantos="1" idOrigen="p4" idDestino="p5"/>
+				<treat coleccion="4" tipo="linea" cuantos="1" idOrigen="p5" idDestino="p6"/>
+				<treat coleccion="9" tipo="linea" cuantos="1" idOrigen="p1" idDestino="p2"/>
+				<treat coleccion="8" tipo="linea" cuantos="1" idOrigen="p2" idDestino="p3"/>
+				<treat coleccion="7" tipo="linea" cuantos="1" idOrigen="p3" idDestino="p4"/>
+				<treat coleccion="6" tipo="linea" cuantos="1" idOrigen="p4" idDestino="p5"/>
+				<treat coleccion="5" tipo="linea" cuantos="1" idOrigen="p5" idDestino="p6"/>
+			</challenge>
+		</level> <!-- n-060 -->
+		<extra>
+			<!--
+			<level></level>
+			<level></level>
+			<level></level>
+			-->
+		</extra>
+	</section> <!-- s-13 -->
+	<section>
+		<level>
+			<challenge time="10">
+				<planet1 x="0.2148338" y="0.8273382" size="0.25" speed="1.1"/>
+				<planet5 idTraslado="p1" time="0.77" x="0.7799362" y="0.8200787" size="0.25" speed="1.1"/>
+				<planet1 x="0.910486" y="0.6158273" size="0.07" speed="0.05"/>
+				<planet1 x="0.7544757" y="0.61294967" size="0.13" speed="0.05"/>
+				<planet1 x="0.54731464" y="0.58129495" size="0.17" speed="0.05"/>
+				<planet1 x="0.90792847" y="0.5467626" size="0.09" speed="0.05"
+					direction="opposite"/>
+				<planet1 x="0.7452814" y="0.51569474" size="0.15" speed="0.05"/>
+				<planet1 x="0.31457803" y="0.49784175" size="0.27" speed="0.05"/>
+				<planet1 x="0.08184145" y="0.44172662" size="0.12" speed="0.05"
+					direction="opposite"/>
+				<planet1 x="0.5626599" y="0.42877698" size="0.18" speed="0.05"/>
+				<planet1 x="0.13810743" y="0.33956835" size="0.18" speed="0.05"/>
+				<planet1 x="0.37118924" y="0.31386465" size="0.18" speed="0.05"
+					direction="opposite"/>
+				<planet1 x="0.107416876" y="0.22302155" size="0.14" speed="0.05"/>
+				<planet1 x="0.27109978" y="0.21748202" size="0.099" speed="0.05"/>
+				<planet1 x="0.092071615" y="0.1138849" size="0.11" speed="0.05"/>
+				<treat cuantos="7">
+					<planet1 id="p1" x="0.7289003" y="0.16690648" size="0.28" speed="0.88"/>
+				</treat>
+			</challenge>
+			<challenge>
+				<planet1 id="p1" x="0.5063939" y="0.31798562" size="0.24" speed="1.13"/>
+				<planet1 id="p2" x="0.2536573" y="0.84630394" size="0.20" speed="1.0"/>
+				<treat>
+					<planet1 x="0.7190154" y="0.84192216" size="0.21" speed="1.0"/>
+				</treat>
+				<planet1 x="0.86200774" y="0.65618026" size="0.23" speed="0.05"/>
+				<planet1 x="0.61648345" y="0.6518637" size="0.23" speed="0.05"/>
+				<planet1 x="0.37340155" y="0.6503597" size="0.23" speed="0.05"/>
+				<planet1 x="0.13299234" y="0.64748204" size="0.23" speed="0.05"/>
+				<planet5 time="0.6" idTraslado="p2" x="0.78005123" y="0.4561151" size="0.24" speed="1.0" direction="opposite"/>
+				<planet5 time="0.6" idTraslado="p1" x="0.16879798" y="0.40719423" size="0.24" speed="1.0" direction="opposite"/>
+				<planet5 time="0.6" idTraslado="p1" x="0.54987216" y="0.13381295" size="0.24" speed="1.0" direction="opposite"/>
+			</challenge>
+			<challenge>
+				<treat coleccion="1">
+					<planet1 id="p1" x="0.1943734" y="0.79280573" size="0.24" speed="1.0"/>
+				</treat>
+				<planet5 time="0.7" idTraslado="p1" x="0.539642" y="0.90359706" size="0.18" speed="1.14"/>
+				<planet5 time="0.7" idTraslado="p2" x="0.8158569" y="0.8848921" size="0.17" speed="1.16"/>
+				<planet5 time="0.7" idTraslado="p1" x="0.5831203" y="0.7683453" size="0.17" speed="1.15"/>
+				<planet1 x="0.849105" y="0.6820144" size="0.23" speed="0.05"/>
+				<planet1 x="0.38618928" y="0.5971223" size="0.21" speed="0.05"/>
+				<planet1 x="0.63938624" y="0.58848923" size="0.21" speed="0.05"/>
+				<planet1 x="0.12299234" y="0.5857419" size="0.22" speed="0.05"/>
+				<planet1 x="0.8565473" y="0.51066095" size="0.21" speed="0.05"/>
+				<planet1 x="0.299578" y="0.46782145" size="0.21" speed="0.05"/>
+				<planet1 x="0.53998727" y="0.45918837" size="0.21" speed="0.05"/>
+				<planet1 x="0.7542456" y="0.37109265" size="0.21" speed="0.05"/>
+				<treat coleccion="0">
+					<treat coleccion="2">
+						<planet1 id="p2" x="0.7595908" y="0.15395685" size="0.24" speed="1.0"/>
+					</treat>
+				</treat>
+				<planet5 time="0.7" idTraslado="p2" x="0.4040921" y="0.2561151" size="0.19" speed="1.15"/>
+				<planet5 time="0.7" idTraslado="p1" x="0.21227625" y="0.13381295" size="0.18" speed="1.15"/>
+			</challenge>
+		</level> <!-- n-066 -->
+		<level>
+			<challenge>
+				<treat coleccion="3">
+				<treat coleccion="1">
+					<planet1 id="p1" x="0.5025511" y="0.106321834" size="0.24" speed="1.0"/>
+				</treat>
+				</treat>
+				<treat coleccion="2">
+				<treat coleccion="0">
+					<planet1 x="0.5076531" y="0.8951149" size="0.24" speed="1.0"/>
+				</treat>
+				</treat>
+				<planet5 id="p4" idTraslado="p1" time="1.34" x="0.50000006" y="0.7083333" size="0.24" speed="1.0"/>
+				<planet5 id="p3" idTraslado="p4" time="0.2"  anguloInicial="300" x="0.49744904" y="0.50574714" size="0.24" speed="1.0"/>
+				<planet5 id="p2" idTraslado="p3" time="0.2" x="0.49489802" y="0.29885057" size="0.24" speed="1.0"/>
+			</challenge>
+			<challenge>
+				<treat coleccion="3">
+				<treat coleccion="1">
+					<planet1 id="p0" x="0.23979594" y="0.16235633" size="0.24" speed="1.0"/>
+				</treat>
+				</treat>
+				<treat coleccion="2">
+				<treat coleccion="0">
+					<planet1 id="p7" x="0.77551025" y="0.8893679" size="0.25" speed="1.0"/>
+				</treat>
+				</treat>
+				<planet5 time="1.62" idTraslado="p0" id="p6" x="0.33418366" y="0.8591954" size="0.24" speed="1.25"/>
+				<planet5 time="0.2" idTraslado="p6" id="p5" anguloInicial="270" x="0.5637756" y="0.6925287" size="0.24" speed="1.0"/>
+				<planet5 time="0.2" idTraslado="p5" id="p4" x="0.24744901" y="0.49856323" size="0.23" speed="1.0"/>
+				<planet5 time="0.2" idTraslado="p4" id="p3" x="0.76020414" y="0.49712643" size="0.24" speed="1.0"/>
+				<planet5 time="0.2" idTraslado="p3" id="p2" x="0.49744904" y="0.31896552" size="0.24" speed="1.0"/>
+				<planet5 time="0.2" idTraslado="p2" id="p1" x="0.7142858" y="0.12068965" size="0.24" speed="1.0"/>
+			</challenge>
+		</level> <!-- n-067 -->
+		<extra>
+			<!--
+			<level></level>
+			<level></level>
+			<level></level>
+			-->
+		</extra>
+	</section> <!-- s-14 -->
+	<section>
+		<level>
+			<challenge time="3">
+				<planet1 x="0.50383633" y="0.8489208" size="0.26" speed="1.0"/>
+				<treatTiempo>
+					<planet1 x="0.49616373" y="0.6460432" size="0.25" speed="1.0"/>
+					<planet1 x="0.50383633" y="0.4230216" size="0.26" speed="1.0"/>
+				</treatTiempo>
+				<treat coleccion="0">
+					<planet1 x="0.49360618" y="0.19136691" size="0.26" speed="1.0"/>
+				</treat>
+			</challenge>
+			<challenge time="3">
+				<planet1 x="0.50277776" y="0.8546875" size="0.26" speed="1.0"/>
+				<treatTiempo cuantos="6">
+					<planet1 x="0.30" y="0.635" size="0.25" speed="1.0"/>
+				</treatTiempo>
+				<planet1 x="0.73" y="0.635" size="0.25" speed="1.0"/>
+				<treatTiempo cuantos="6">
+					<planet1 x="0.73" y="0.36" size="0.25" speed="1.0"/>
+				</treatTiempo>
+				<planet1 x="0.30" y="0.36" size="0.25" speed="1.0"/>
+				<treat>
+					<planet1 x="0.50383633" y="0.15251799" size="0.26" speed="1.0"
+						direction="opposite"/>
+				</treat>
+			</challenge>
+			<challenge time="3">
+				<planet1 x="0.48337603" y="0.8705036" size="0.26" speed="1.0"/>
+				<treatTiempo cuantos="4" angle="70">
+					<planet1 x="0.7672635" y="0.7410072" size="0.22" speed="1.0"/>
+					<planet1 x="0.27109978" y="0.64748204" size="0.22" speed="1.0"/>
+					<planet1 x="0.6624042" y="0.5064748" size="0.22" speed="1.0"/>
+					<planet1 x="0.25831205" y="0.41438848" size="0.22" speed="1.0"/>
+					<planet1 x="0.7826087" y="0.29640287" size="0.22" speed="1.0"/>
+				</treatTiempo>
+				<treat>
+					<planet1 x="0.3759591" y="0.13956833" size="0.26" speed="1.0"/>
+				</treat>
+			</challenge>
+		</level> <!-- n-072 -->
+		<level>
+			<challenge time="6">
+				<treat coleccion="1">
+					<planet1 x="0.56010234" y="0.7381295" size="0.24" speed="1.0"/>
+				</treat>
+				<treatTiempo cuantos="8">
+					<planet1 x="0.8056266" y="0.9093525" size="0.23" speed="1.0" direction="opposite"/>
+				</treatTiempo>
+				<planet3 x="0.22506393" y="0.6647482" size="0.23" speed="1.0"/>
+				<planet3 x="0.7544757" y="0.5726619" size="0.23" speed="1.0"/>
+				<planet3 x="0.4322251" y="0.43165463" size="0.24" speed="1.0"/>
+				<planet3 x="0.7519182" y="0.29640287" size="0.25" speed="1.0"/>
+				<treatTiempo cuantos="8">
+					<planet1 x="0.2148338" y="0.23309353" size="0.25" speed="1.0" direction="opposite"/>
+				</treatTiempo>
+				<treat coleccion="0">
+					<planet1 x="0.56464195" y="0.104710005" size="0.2" speed="1.0"/>
+				</treat>
+			</challenge>
+			<challenge time="10">
+				<treat coleccion="1">
+					<planet1 x="0.37748083" y="0.8339456" size="0.27" speed="1.0"/>
+				</treat>
+				<treatTiempo cuantos="7">
+					<planet3 x="0.8030691" y="0.61007196" size="0.25" speed="1.0"/>
+				</treatTiempo>
+				<planet3 x="0.511509" y="0.49928054" size="0.25" speed="1.0" direction="opposite"/>
+				<treatTiempo cuantos="7">
+					<planet3 x="0.24040921" y="0.38417265" size="0.26" speed="1.0"/>
+				</treatTiempo>
+				<treat coleccion="0">
+				<treat coleccion="2">
+					<planet1 x="0.7365729" y="0.18992805" size="0.29" speed="1.0"/>
+				</treat>
+				</treat>
+			</challenge>
+		</level> <!-- n-073 -->
+		<extra>
+			<!--
+			<level></level>
+			<level></level>
+			<level></level>
+			-->
+		</extra>
+	</section> <!-- s-15 -->
+	<section>
+		<level>
+			<challenge time="17">
+				<planet1 x="0.7338502" y="0.7369186" size="0.25" speed="1.0"/>
+				<treat>
+					<planet1 x="0.25322998" y="0.8415698" size="0.25" speed="1.11"/>
+				</treat>
+				<planet7 x="0.50645995" y="0.51598835" size="0.25" speed="1.0" direction="opposite"/>
+				<planet1 x="0.30749357" y="0.28343022" size="0.25" speed="1.0"/>
+				<treat>
+					<planet1 x="0.7700259" y="0.12645349" size="0.25" speed="1.0"/>
+				</treat>
+			</challenge>
+			<challenge time="13">
+				<planet1 x="0.7157623" y="0.78197676" size="0.25" speed="1.0" direction="opposite"/>
+				<treat>
+					<planet1 x="0.29974163" y="0.88226736" size="0.25" speed="1.0"/>
+				</treat>
+				<planet1 x="0.4806202" y="0.61918604" size="0.25" speed="1.0"/>
+				<treat>
+					<planet1 x="0.2635659" y="0.45639533" size="0.25" speed="1.0"/>
+				</treat>
+				<planet1 x="0.762274" y="0.41860467" size="0.25" speed="1.0" direction="opposite"/>
+				<planet1 x="0.48837212" y="0.29360464" size="0.25" speed="1.0" direction="opposite"/>
+				<treat>
+					<planet1 x="0.7726099" y="0.14970927" size="0.25" speed="1.0"/>
+				</treat>
+				<planet7 x="0.2894057" y="0.094476745" size="0.25" speed="1.0"/>
+			</challenge>
+			<challenge time="14">
+				<planet1 x="0.77777785" y="0.74854654" size="0.21" speed="1.11"/>
+				<treat>
+					<planet1 x="0.7829459" y="0.9011628" size="0.17" speed="1.21"/>
+				</treat>
+				<planet1 x="0.17829458" y="0.8851744" size="0.19" speed="1.12" direction="opposite"/>
+				<planet1 x="0.4573644" y="0.877907" size="0.22" speed="1.21"/>
+				<planet7 x="0.16795868" y="0.7005814" size="0.21" speed="1.17"/>
+				<planet1 x="0.50645995" y="0.65552324" size="0.25" speed="1.22" direction="opposite"/>
+				<planet1 x="0.32041347" y="0.4854651" size="0.22" speed="1.14"/>
+				<treat>
+					<planet1 x="0.762274" y="0.49127907" size="0.25" speed="1.16"/>
+				</treat>
+				<treat>
+					<planet1 x="0.13695094" y="0.31831396" size="0.16" speed="1.17"/>
+				</treat>
+				<planet1 x="0.4832042" y="0.3139535" size="0.23" speed="1.11" direction="opposite"/>
+				<treat>
+					<planet1 x="0.8191215" y="0.23837209" size="0.18" speed="1.14"/>
+				</treat>
+				<planet1 x="0.2635659" y="0.13662791" size="0.26" speed="1.13"/>
+				<planet7 x="0.63565904" y="0.0959302" size="0.22" speed="1.22"/>
+			</challenge>
+		</level> <!-- n-077 -->
+		<level>
+			<challenge>
+				<treat coleccion="2">
+					<planet1 x="0.27179492" y="0.17027417" size="0.25" speed="1.0" direction="opposite"/>
+				</treat>
+				<treat coleccion="1">
+					<planet1 x="0.30769235" y="0.86435795" size="0.245" speed="1.0"/>
+				</treat>
+				<treat coleccion="0">
+					<planet1 x="0.7512821" y="0.6796537" size="0.245" speed="1.0"/>
+				</treat>
+				<treat coleccion="3">
+					<planet1 x="0.28461543" y="0.5310245" size="0.25" speed="1.0"/>
+				</treat>
+				<planet7 x="0.74615395" y="0.17604618" size="0.25" speed="1.0"/>
+			</challenge>
+			<challenge time="17">
+				<treat coleccion="2">
+					<planet1 x="0.50645995" y="0.12063954" size="0.25" speed="1.0"/>
+				</treat>
+				<planet1 x="0.54005176" y="0.89244187" size="0.25" speed="1.0"/>
+				<treat coleccion="0">
+					<planet1 x="0.22222222" y="0.75436044" size="0.25" speed="1.0"/>
+				</treat>
+				<treat coleccion="3">
+					<planet1 x="0.7829459" y="0.69186044" size="0.25" speed="1.0"/>
+				</treat>
+				<planet7 x="0.5193799" y="0.4985465" size="0.25" speed="1.0"
+					direction="opposite"/>
+				<planet1 x="0.22997418" y="0.3008721" size="0.25" speed="1.0"/>
+				<treat coleccion="1">
+					<planet1 x="0.7881137" y="0.27034885" size="0.25" speed="1.0"/>
+				</treat>
+			</challenge>
+		</level> <!-- n-078 -->
+		<extra>
+			<!--
+			<level></level>
+			<level></level>
+			<level></level>
+			-->
+		</extra>
+	</section> <!-- s-16 -->
+	<section>
+		<level>
+			<advice imagePath="rotar-p6.png"> Desliza el dedo por la pantalla
+				verticalmente cuando llegues al nuevo planet. </advice>
+			<challenge time="15">
+				<planet1 x="0.28061226" y="0.85775864" size="0.25" speed="1.0"/>
+				<treat cuantos="3" amplitud="90" angle="310">
+					<planet6 x="0.4311225" y="0.6091954" size="0.27"/>
+				</treat>
+				<treat>
+					<planet1 x="0.7117348" y="0.1724138" size="0.29" speed="1.0"
+						direction="opposite"/>
+				</treat>
+			</challenge>
+			<challenge time="15">
+				<planet1 x="0.472347" y="0.1611638" size="0.25" speed="1.2"/>
+				<treat>
+					<planet1 x="0.19897962" y="0.7844828" size="0.25" speed="1.2"
+						direction="opposite"/>
+					<planet1 x="0.8086735" y="0.73275864" size="0.25" speed="1.2"
+						direction="opposite"/>
+				</treat>
+				<planet6 x="0.50000006" y="0.42672414" size="0.29"/>
+			</challenge>
+			<challenge time="9">
+				<planet1 x="0.5" y="0.86925286" size="0.25" speed="1.2"/>
+				<treat cuantos="4" amplitud="180" angle="270">
+					<planet1 x="0.5" y="0.6508621" size="0.25" speed="1.2"/>
+					<planet6 x="0.5" y="0.41091958" size="0.25"/>
+					<planet1 x="0.5" y="0.15660918" size="0.25" speed="1.2"/>
+				</treat>
+			</challenge>
+		</level> <!-- n-086 -->
+		<level>
+			<challenge time="10">
+				<planet1 x="0.32132658" y="0.7801114" size="0.28" speed="1.2"/>
+				<treat cuantos="1" angle="180">
+					<planet1 x="0.28571433" y="0.3678161" size="0.28" speed="1.2"/>
+				</treat>
+				<treat cuantos="1" angle="0">
+					<planet6 x="0.7168368" y="0.5833333" size="0.28" direction="opposite"/>
+					<planet6 x="0.6760204" y="0.18390803" size="0.28" direction="opposite"/>
+				</treat>
+			</challenge>
+			<challenge time="10">
+				<planet1 x="0.23469391" y="0.8433908" size="0.25" speed="1.2"/>
+				<treat cuantos="1" angle="35">
+					<planet6 x="0.76275516" y="0.7528735" size="0.25" direction="opposite"/>
+				</treat>
+				<treat cuantos="1" angle="190">
+					<planet6 x="0.22193882" y="0.5344828" size="0.25" direction="opposite"/>
+				</treat>
+				<treat cuantos="1" angle="350">
+					<planet1 x="0.7525511" y="0.46264368" size="0.25" speed="1.2"/>
+				</treat>
+				<treat cuantos="1" angle="170">
+					<planet1 x="0.20153062" y="0.2327584" size="0.25" speed="1.2"/>
+				</treat>
+				<treat cuantos="1" angle="360">
+					<planet6 x="0.75000000" y="0.1681034" size="0.25" direction="opposite"/>
+				</treat>
+			</challenge>
+		</level> <!-- n-088 -->
+		<extra>
+			<level>
+				<challenge border="rebote" time="3">
+					<planet6 id="p0" x="0.48724493" y="0.82287354" size="0.21"/>
+					<planet5 id="p1" idTraslado="p0" time="0.3" x="0.15833333" y="0.7171875" size="0.23"/>
+					<planet5 id="p2" idTraslado="p0" time="0.3" x="0.84693885" y="0.66810346" size="0.25" speed="1.2"/>
+					<planet5 id="p3" idTraslado="p0" time="0.3" x="0.33928573" y="0.60488504" size="0.27" speed="1.2"/>
+					<planet5 idTraslado="p4" time="0.3" x="0.62500006" y="0.58189654" size="0.27" speed="1.2"/>
+					<treat>
+						<planet1 id="p4" x="0.75" y="0.20494253" size="0.25" speed="1.2"/>
+					</treat>
+				</challenge>
+				<challenge border="rebote" time="4">
+					<planet6 id="p1" x="0.49744904" y="0.4051724" size="0.25"/>
+					<treat>
+						<planet1 id="p2" x="0.49744904" y="0.8821839" size="0.25" speed="1.2"/>
+					</treat>
+					<planet5 idTraslado="p1" time="0.2" x="0.36989796" y="0.6508621" size="0.25"/>
+					<planet5 idTraslado="p1" time="0.2" x="0.6301021" y="0.6508621" size="0.25"/>
+					<planet5 idTraslado="p1" time="0.2" x="0.8545919" y="0.57471263" size="0.25"/>
+					<planet5 idTraslado="p1" time="0.2" x="0.14540817" y="0.55028737" size="0.25"/>
+					<planet5 idTraslado="p2" time="0.2" x="0.8112245" y="0.2672414" size="0.25"/>
+					<planet5 idTraslado="p1" time="0.2" x="0.13010202" y="0.25862068" size="0.25"/>
+					<planet5 idTraslado="p1" time="0.2" x="0.45918372" y="0.15804598" size="0.25"/>
+				</challenge>
+				<challenge border="rebote" time="3">
+					<planet6 id="p1" x="0.7780613" y="0.8936782" size="0.25"/>
+					<planet5 idTraslado="p2" time="0.2" x="0.34438783" y="0.920977" size="0.2"/>
+					<planet5 idTraslado="p1" time="0.2" x="0.3826531" y="0.7844828" size="0.23"/>
+					<planet5 idTraslado="p1" time="0.2" x="0.56887764" y="0.6781609" size="0.245"/>
+					<planet5 idTraslado="p1" time="0.2" x="0.824392858" y="0.64224136" size="0.277"/>
+					<treat>
+						<planet1 id="p2" x="0.52755105" y="0.32153377" size="0.3" speed="1.2" direction="opposite"/>
+					</treat>
+				</challenge>
+				<challenge border="rebote" time="4">
+					<planet6 id="p1" x="0.48979598" y="0.9022989" size="0.25"/>
+					<planet5 idTraslado="p1" time="0.22" x="0.8775511" y="0.6364943" size="0.22"/>
+					<planet5 idTraslado="p1" time="0.22" x="0.36000007" y="0.5993211" size="0.19"/>
+					<planet5 idTraslado="p1" time="0.22" x="0.13775513" y="0.5071839" size="0.23"/>
+					<planet5 idTraslado="p1" time="0.22" x="0.77295923" y="0.50143677" size="0.21"/>
+					<planet5 idTraslado="p2" time="0.22" x="0.38051024" y="0.43846264" size="0.25"/>
+					<planet5 idTraslado="p1" time="0.22" x="0.614796" y="0.3979885" size="0.21"/>
+					<treat>
+						<planet1 id="p2" x="0.3341837" y="0.119252875" size="0.25" speed="1.2" direction="opposite"/>
+					</treat>
+				</challenge>
+				<challenge border="rebote" time="4">
+					<planet6 id="p1" x="0.18622452" y="0.18821838" size="0.22"/>
+					<treat>
+						<planet1 id="p2" x="0.8367348" y="0.86925286" size="0.22" speed="1.2"
+							direction="opposite"/>
+					</treat>
+					<planet5 idTraslado="p1" time="0.15" x="0.31632656" y="0.8175287" size="0.22"/>
+					<planet5 idTraslado="p1" time="0.15" x="0.45918372" y="0.6738506" size="0.22"/>
+					<planet5 idTraslado="p1" time="0.15" x="0.11989797" y="0.5617816" size="0.2"/>
+					<planet5 idTraslado="p2" time="0.15" x="0.7576531" y="0.49712643" size="0.25"/>
+					<planet5 idTraslado="p2" time="0.15" x="0.44897962" y="0.47413793" size="0.22"/>
+					<planet5 idTraslado="p1" time="0.15" x="0.74234706" y="0.31752872" size="0.26"/>
+					<planet5 idTraslado="p1" time="0.15" x="0.8698981" y="0.15373564" size="0.2"/>
+					<planet5 idTraslado="p1" time="0.15" x="0.5790817" y="0.07614942" size="0.22"/>
+				</challenge>
+			</level> <!-- x-43 -->
+		</extra>
+	</section> <!-- s-17 -->
+	<section>
+		<level>
+			<challenge border="traslado">
+				<planet1 x="0.8076924" y="0.13131313" size="0.22" speed="1.2"/>
+				<treatHabilita id="dh1" angle="188" time="5">
+					<planet1 x="0.21794875" y="0.8831169" size="0.22" speed="1.22"/>
+				</treatHabilita>
+				<treat cuantos="3" angle="44" coleccion="0">
+					<treat cuantos="3" coleccion="1">
+						<planet3 habilita="dh1" x="0.39487186" y="0.66233766" size="0.22" speed="1.2"/>
+					</treat>
+				</treat>
+				<treat cuantos="3" angle="44" coleccion="1">
+					<treat cuantos="3" coleccion="0">
+						<planet3 habilita="dh1" x="0.6051283" y="0.36075035" size="0.22" speed="1.2"/>
+					</treat>
+				</treat>
+			</challenge>
+			<challenge border="traslado">
+				<planet1 x="0.48717958" y="0.52958155" size="0.22" speed="1.24"/>
+				<treatHabilita id="dh1" time="4.4" angle="182">
+					<planet1 x="0.80256414" y="0.87157285" size="0.22" speed="1.2"/>
+				</treatHabilita>
+				<treatHabilita id="dh2" time="4.4" angle="310">
+					<planet1 x="0.8055556" y="0.165625" size="0.22" speed="1.2"/>
+				</treatHabilita>
+				<treat cuantos="1" angle="172">
+					<planet3 habilita="dh1" x="0.42307696" y="0.89177495" size="0.22" speed="1.2"/>
+				</treat>
+				<treat cuantos="1" angle="352">
+					<planet3 habilita="dh1" x="0.7897437" y="0.43001443" size="0.22" speed="1.2"/>
+				</treat>
+				<treat cuantos="1" angle="255">
+					<planet3 habilita="dh1" x="0.4256411" y="0.12554112" size="0.22" speed="1.2"/>
+				</treat>
+				<treat cuantos="1" angle="256">
+					<planet3 habilita="dh2" x="0.22564104" y="0.6969697" size="0.22"
+						speed="1.2" direction="opposite"/>
+				</treat>
+				<treat cuantos="1" angle="277">
+					<planet3 habilita="dh2" x="0.7384616" y="0.6911977" size="0.22"
+						speed="1.2" direction="opposite"/>
+				</treat>
+				<treat cuantos="1" angle="170">
+					<planet3 habilita="dh2" x="0.23589745" y="0.33477634" size="0.22"
+						speed="1.2" direction="opposite"/>
+				</treat>
+			</challenge>
+		</level> <!-- n-098 -->
+		<level>
+			<challenge border="rebote">
+				<planet1 x="0.50" y="0.80" size="0.29" speed="1.15"/>
+				<planet1 id="p1" habilita="dh1" x="0.21" y="0.38" size="0.25" speed="1.16"
+					direction="opposite"/>
+				<planet1 id="p2" habilita="dh1" x="0.79" y="0.38" size="0.25" speed="1.16"
+					direction="opposite"/>
+				<treatHabilita id="dh1" angle="270" time="4.7">
+					<planet1 x="0.50" y="0.17" size="0.28" speed="1.15"/>
+				</treatHabilita>
+				<treat coleccion="0" tipo="linea" idOrigen="p1" idDestino="p2"/>
+				<treat coleccion="1" tipo="linea" idOrigen="p1" idDestino="p2"/>
+				<treat coleccion="2" tipo="linea" idOrigen="p1" idDestino="p2"/>
+			</challenge>
+			<challenge border="rebote">
+				<planet1 x="0.50" y="0.50" size="0.28" speed="1.1"/>
+				<treatHabilita id="dh1" angle="90">
+					<planet1 x="0.50" y="0.88" size="0.22" speed="1.12"/>
+				</treatHabilita>
+				<planet1 id="p1" habilita="dh2" x="0.225" y="0.70" size="0.22" speed="1.18"/>
+				<planet1 id="p2" habilita="dh2" x="0.775" y="0.70" size="0.22" speed="1.18"/>
+				<planet1 id="p3" habilita="dh1" x="0.225" y="0.32" size="0.22" speed="1.18"/>
+				<planet1 id="p4" habilita="dh1" x="0.775" y="0.32" size="0.22" speed="1.18"/>
+				<treatHabilita id="dh2" angle="270">
+					<planet1 x="0.50" y="0.14" size="0.22" speed="1.1"/>
+				</treatHabilita>
+				<treat coleccion="1" tipo="linea" idOrigen="p1" idDestino="p2"/>
+				<treat coleccion="0" tipo="linea" idOrigen="p3" idDestino="p4"/>
+				<treat coleccion="2" tipo="linea" idOrigen="p3" idDestino="p4"/>
+			</challenge>
+		</level> <!-- n-100 -->
+		<extra>
+			<level>
+				<challenge border="rebote" time="19">
+					<treat coleccion="1">
+						<planet1 x="0.28826535" y="0.1551724" size="0.25" speed="1.15"/>
+					</treat>
+					<treat coleccion="0">
+						<planet1 x="0.67081636" y="0.89361703" size="0.25" speed="1.15"/>
+					</treat>
+					<treat coleccion="2">
+						<planet1 x="0.27806124" y="0.8893679" size="0.24" speed="1.15"/>
+					</treat>
+					<treatHabilita id="dh1" angle="327">
+						<planet4 habilita="dh1 dh2 dh3 dh4 dh5 dh6 dh7 dh8 dh9" x="0.13775513" y="0.625"
+							size="0.19"/>
+					</treatHabilita>
+					<treatHabilita id="dh2" angle="292">
+						<planet4 habilita="dh1 dh2 dh3 dh4 dh5 dh6 dh7 dh8 dh9" x="0.46704084" y="0.622"
+							size="0.22"/>
+					</treatHabilita>
+					<treatHabilita id="dh3" angle="202">
+						<treatHabilita id="dh9" angle="322">
+							<planet4 habilita="dh1 dh2 dh3 dh4 dh5 dh6 dh7 dh8 dh9" x="0.8443878" y="0.5905172"
+								size="0.20"/>
+						</treatHabilita>
+					</treatHabilita>
+					<treatHabilita id="dh4" angle="352">
+						<treatHabilita id="dh6" angle="244">
+							<planet4 habilita="dh1 dh2 dh3 dh4 dh5 dh6 dh7 dh8 dh9" x="0.614796" y="0.45258623"
+								size="0.20"/>
+						</treatHabilita>
+					</treatHabilita>
+					<treatHabilita id="dh5" angle="347">
+						<treatHabilita id="dh8" angle="200">
+							<planet4 habilita="dh1 dh2 dh3 dh4 dh5 dh6 dh7 dh8 dh9" x="0.2193878" y="0.44396552"
+								size="0.21"/>
+						</treatHabilita>
+					</treatHabilita>
+					<treat coleccion="3">
+						<planet1 x="0.7397959" y="0.13505745" size="0.24" speed="1.15"/>
+					</treat>
+				</challenge>
+			</level> <!-- x-48 -->
+		</extra>
+	</section> <!-- s-18 -->
+</planetasData>
+
+
+

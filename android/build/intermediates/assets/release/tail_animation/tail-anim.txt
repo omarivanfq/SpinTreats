@@ -1,0 +1,131 @@
+tail-anim.png
+size: 780, 1788
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tail-01
+  rotate: false
+  xy: 0, 0
+  size: 260, 298
+  orig: 260, 298
+  offset: 0, 0
+  index: -1
+tail-02
+  rotate: false
+  xy: 260, 0
+  size: 260, 298
+  orig: 260, 298
+  offset: 0, 0
+  index: -1
+tail-03
+  rotate: false
+  xy: 520, 0
+  size: 260, 298
+  orig: 260, 298
+  offset: 0, 0
+  index: -1
+tail-04
+  rotate: false
+  xy: 0, 298
+  size: 260, 298
+  orig: 260, 298
+  offset: 0, 0
+  index: -1
+tail-05
+  rotate: false
+  xy: 260, 298
+  size: 260, 298
+  orig: 260, 298
+  offset: 0, 0
+  index: -1
+tail-06
+  rotate: false
+  xy: 520, 298
+  size: 260, 298
+  orig: 260, 298
+  offset: 0, 0
+  index: -1
+tail-07
+  rotate: false
+  xy: 0, 596
+  size: 260, 298
+  orig: 260, 298
+  offset: 0, 0
+  index: -1
+tail-08
+  rotate: false
+  xy: 260, 596
+  size: 260, 298
+  orig: 260, 298
+  offset: 0, 0
+  index: -1
+tail-09
+  rotate: false
+  xy: 520, 596
+  size: 260, 298
+  orig: 260, 298
+  offset: 0, 0
+  index: -1
+tail-10
+  rotate: false
+  xy: 0, 894
+  size: 260, 298
+  orig: 260, 298
+  offset: 0, 0
+  index: -1
+tail-11
+  rotate: false
+  xy: 260, 894
+  size: 260, 298
+  orig: 260, 298
+  offset: 0, 0
+  index: -1
+tail-12
+  rotate: false
+  xy: 520, 894
+  size: 260, 298
+  orig: 260, 298
+  offset: 0, 0
+  index: -1
+tail-13
+  rotate: false
+  xy: 0, 1192
+  size: 260, 298
+  orig: 260, 298
+  offset: 0, 0
+  index: -1
+tail-14
+  rotate: false
+  xy: 260, 1192
+  size: 260, 298
+  orig: 260, 298
+  offset: 0, 0
+  index: -1
+tail-15
+  rotate: false
+  xy: 520, 1192
+  size: 260, 298
+  orig: 260, 298
+  offset: 0, 0
+  index: -1
+tail-16
+  rotate: false
+  xy: 0, 1490
+  size: 260, 298
+  orig: 260, 298
+  offset: 0, 0
+  index: -1
+tail-17
+  rotate: false
+  xy: 260, 1490
+  size: 260, 298
+  orig: 260, 298
+  offset: 0, 0
+  index: -1
+tail-18
+  rotate: false
+  xy: 520, 1490
+  size: 260, 298
+  orig: 260, 298
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,8 @@
+<challenge>
+	<planets>
+		<planeta1 x = "0.2986111" y = "0.55546874" size = "0.3" />
+		<planeta1 x = "0.6222223" y = "0.63125" size = "0.5" />
+	</planets>
+	<dulces>
+	</dulces>
+</challenge>

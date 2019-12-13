@@ -1,0 +1,60 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\OmarIvanFQ\\Desktop\\4\\android\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-zh-rTW\\values-zh-rTW.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\OmarIvanFQ\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-ads-17.2.0.aar\\5cb158d80e2ee93001d430735ef4ff5e\\res\\values-zh-rTW\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10",
+                        "startColumns": "0,0,0,0,0,0,0",
+                        "startOffsets": "203,264,339,399,459,523,594",
+                        "endColumns": "60,74,59,59,63,70,61",
+                        "endOffsets": "263,338,398,458,522,593,655"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "267,332,411,475,539,607,682",
+                        "endColumns": "64,78,63,63,67,74,65",
+                        "endOffsets": "327,406,470,534,602,677,743"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\OmarIvanFQ\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\2efb00debccd4ec3f4c447fd928f2484\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "748",
+                        "endColumns": "100",
+                        "endOffsets": "844"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\OmarIvanFQ\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-16.0.1.aar\\a77f288c61ebc71daa3da039246fb9a4\\res\\values-zh-rTW\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "251",
+                        "endColumns": "161",
+                        "endOffsets": "412"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "161",
+                        "endOffsets": "262"
+                    }
+                }
+            ]
+        }
+    ]
+}

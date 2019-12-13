@@ -1,0 +1,68 @@
+p3_explosion.png
+size: 713, 714
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+p3_exp1
+  rotate: false
+  xy: 1, 1
+  size: 249, 250
+  orig: 250, 250
+  offset: 1, 0
+  index: -1
+p3_exp2
+  rotate: false
+  xy: 1, 253
+  size: 244, 246
+  orig: 250, 250
+  offset: 4, 2
+  index: -1
+p3_exp3
+  rotate: false
+  xy: 247, 253
+  size: 234, 236
+  orig: 250, 250
+  offset: 4, 7
+  index: -1
+p3_exp4
+  rotate: true
+  xy: 483, 1
+  size: 241, 229
+  orig: 250, 250
+  offset: 4, 14
+  index: -1
+p3_exp5
+  rotate: true
+  xy: 252, 1
+  size: 239, 227
+  orig: 250, 250
+  offset: 4, 16
+  index: -1
+p3_exp6
+  rotate: true
+  xy: 247, 491
+  size: 222, 223
+  orig: 250, 250
+  offset: 13, 16
+  index: -1
+p3_exp7
+  rotate: true
+  xy: 472, 491
+  size: 222, 223
+  orig: 250, 250
+  offset: 13, 16
+  index: -1
+p3_exp8
+  rotate: false
+  xy: 483, 244
+  size: 222, 222
+  orig: 250, 250
+  offset: 13, 16
+  index: -1
+p3_exp9
+  rotate: true
+  xy: 1, 501
+  size: 202, 199
+  orig: 250, 250
+  offset: 13, 28
+  index: -1

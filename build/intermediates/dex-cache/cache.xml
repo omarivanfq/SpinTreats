@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\OmarIvanFQ\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\ec96946b8a60ccc921418b3904b18934\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="C:\Users\OmarIvanFQ\Desktop\4\android\build\intermediates\transforms\preDex\release\20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OmarIvanFQ\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-16.0.0.aar\c92854c48db9dc15af80474440e2b51c\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="85a55b3892bcf1a7da4d4bf4353460c84b1b4754">
+        <dex dex="C:\Users\OmarIvanFQ\Desktop\4\android\build\intermediates\transforms\preDex\release\12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OmarIvanFQ\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-17.2.0.aar\d43d3cd52246db1074a743bbe72e08bc\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="de9bff2b08806a8176583aaa9dc5eb1b9e05a30f">
+        <dex dex="C:\Users\OmarIvanFQ\Desktop\4\android\build\intermediates\transforms\preDex\release\9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OmarIvanFQ\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-17.2.0.aar\205e6b2c67c2e01ec1877d741b93b488\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="de9bff2b08806a8176583aaa9dc5eb1b9e05a30f">
+        <dex dex="C:\Users\OmarIvanFQ\Desktop\4\android\build\intermediates\transforms\preDex\release\9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OmarIvanFQ\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\c96016e13d897566c35cda20d4571a10\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="C:\Users\OmarIvanFQ\Desktop\4\android\build\intermediates\transforms\preDex\release\21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OmarIvanFQ\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.3.0.aar\539dc39a9cdcc35edc7031e95f65dae6\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4f94d9dbab3b25ffd9b08d09d36a82b001b64188">
+        <dex dex="C:\Users\OmarIvanFQ\Desktop\4\android\build\intermediates\transforms\preDex\release\13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OmarIvanFQ\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx\1.9.6\47d1e9b890e364ec28f128e9bb3b9a12a94c164\gdx-1.9.6.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="047d1e9b890e364ec28f128e9bb3b9a12a94c164">
+        <dex dex="C:\Users\OmarIvanFQ\Desktop\4\android\build\intermediates\transforms\preDex\release\7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OmarIvanFQ\.gradle\caches\transforms-1\files-1.1\play-services-measurement-sdk-api-16.3.0.aar\0c9ba6348f1d3f2f2619ec148cb74b6d\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4f94d9dbab3b25ffd9b08d09d36a82b001b64188">
+        <dex dex="C:\Users\OmarIvanFQ\Desktop\4\android\build\intermediates\transforms\preDex\release\13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OmarIvanFQ\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-16.0.0.aar\8b90cbd7740926af6370f6856bc9fbdc\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="85a55b3892bcf1a7da4d4bf4353460c84b1b4754">
+        <dex dex="C:\Users\OmarIvanFQ\Desktop\4\android\build\intermediates\transforms\preDex\release\12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OmarIvanFQ\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\fb47e4f41c1aec678d83bfdffb8ece7b\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="C:\Users\OmarIvanFQ\Desktop\4\android\build\intermediates\transforms\preDex\release\23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OmarIvanFQ\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="C:\Users\OmarIvanFQ\Desktop\4\android\build\intermediates\transforms\preDex\release\25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OmarIvanFQ\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.3.0.aar\4041bdba082296a9dc222a87c46de850\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="43435fb278ff53092bc74a6e2abe7d3f05b10757">
+        <dex dex="C:\Users\OmarIvanFQ\Desktop\4\android\build\intermediates\transforms\preDex\release\14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OmarIvanFQ\Desktop\4\core\build\libs\core-1.0.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9286f7c18add38db339428414afc4cce5b2ffde5">
+        <dex dex="C:\Users\OmarIvanFQ\Desktop\4\android\build\intermediates\transforms\preDex\release\26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OmarIvanFQ\.gradle\caches\transforms-1\files-1.1\play-services-gass-17.2.0.aar\7db35b675bf794aa438b27c280df6bc1\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6280a258a18a0317290c73954db9285abb0d9a26">
+        <dex dex="C:\Users\OmarIvanFQ\Desktop\4\android\build\intermediates\transforms\preDex\release\10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OmarIvanFQ\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\3a3542f377b7c648c5f81f6fc8241263\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="C:\Users\OmarIvanFQ\Desktop\4\android\build\intermediates\transforms\preDex\release\18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OmarIvanFQ\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\6d4d621f2ed2cbfb83f07eeabc2386fe\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e6fff1d276738bb82cfc131c49d2e72a47dfd0aa">
+        <dex dex="C:\Users\OmarIvanFQ\Desktop\4\android\build\intermediates\transforms\preDex\release\8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OmarIvanFQ\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\0b2683c723250c744ffe0e6754df5633\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="C:\Users\OmarIvanFQ\Desktop\4\android\build\intermediates\transforms\preDex\release\23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OmarIvanFQ\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-box2d\1.9.6\c249ef4060a4fada952f278455c8f7b9cba3c18a\gdx-box2d-1.9.6.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c249ef4060a4fada952f278455c8f7b9cba3c18a">
+        <dex dex="C:\Users\OmarIvanFQ\Desktop\4\android\build\intermediates\transforms\preDex\release\4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OmarIvanFQ\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-17.2.0.aar\fe3db30b79aadc5ead4afddf1643dd88\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a13c9a64228ab45bf1879f4b6515f0f77fd7123f">
+        <dex dex="C:\Users\OmarIvanFQ\Desktop\4\android\build\intermediates\transforms\preDex\release\11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OmarIvanFQ\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\8cf8b8037ec87be2af6482c563699fe4\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="C:\Users\OmarIvanFQ\Desktop\4\android\build\intermediates\transforms\preDex\release\17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OmarIvanFQ\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\2efb00debccd4ec3f4c447fd928f2484\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="C:\Users\OmarIvanFQ\Desktop\4\android\build\intermediates\transforms\preDex\release\21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OmarIvanFQ\.gradle\caches\transforms-1\files-1.1\play-services-gass-17.2.0.aar\bb0d33a1f1b4b584466ce025c20a2dac\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6280a258a18a0317290c73954db9285abb0d9a26">
+        <dex dex="C:\Users\OmarIvanFQ\Desktop\4\android\build\intermediates\transforms\preDex\release\10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OmarIvanFQ\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\36256f153983991d0f35cbab2ce19298\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="C:\Users\OmarIvanFQ\Desktop\4\android\build\intermediates\transforms\preDex\release\18.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OmarIvanFQ\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\0ab8344616c24b9f53b958f5df09d384\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\OmarIvanFQ\Desktop\4\android\build\intermediates\transforms\preDex\release\16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OmarIvanFQ\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\38f1068a3f8d27652e608db48f034e58\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="C:\Users\OmarIvanFQ\Desktop\4\android\build\intermediates\transforms\preDex\release\19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OmarIvanFQ\.gradle\caches\transforms-1\files-1.1\play-services-ads-17.2.0.aar\1a62d8a50fd03e89dc436407af6e3923\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ede6e66930694913ab4675c9eddfc93e078e93f5">
+        <dex dex="C:\Users\OmarIvanFQ\Desktop\4\android\build\intermediates\transforms\preDex\release\6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OmarIvanFQ\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\decc3211d152e89c6a8fc8987bdc02bf\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="C:\Users\OmarIvanFQ\Desktop\4\android\build\intermediates\transforms\preDex\release\19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OmarIvanFQ\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\bc9d085285159d47fbd310b9a5abc5c1\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="25cdd380f0a1b2f67a0b7253bbf1f343df981e5e">
+        <dex dex="C:\Users\OmarIvanFQ\Desktop\4\android\build\intermediates\transforms\preDex\release\15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OmarIvanFQ\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\8985405e31e6379c581cdd6e68fa2c08\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\OmarIvanFQ\Desktop\4\android\build\intermediates\transforms\preDex\release\16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OmarIvanFQ\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.1.0\814258103cf26a15fcc26ecce35f5b7d24b73f8\support-annotations-26.1.0.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="C:\Users\OmarIvanFQ\Desktop\4\android\build\intermediates\transforms\preDex\release\22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OmarIvanFQ\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\a77f288c61ebc71daa3da039246fb9a4\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="25cdd380f0a1b2f67a0b7253bbf1f343df981e5e">
+        <dex dex="C:\Users\OmarIvanFQ\Desktop\4\android\build\intermediates\transforms\preDex\release\15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OmarIvanFQ\Desktop\4\libs\tween-engine-api.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8be8beb70b7ccae059d523e56670f6e44fb1821f">
+        <dex dex="C:\Users\OmarIvanFQ\Desktop\4\android\build\intermediates\transforms\preDex\release\2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OmarIvanFQ\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\8fcde68a8a15677e220fe4da4ed5f332\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="C:\Users\OmarIvanFQ\Desktop\4\android\build\intermediates\transforms\preDex\release\20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OmarIvanFQ\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-17.2.0.aar\fa455e26cfdc6ea8ad7e21ae64e6215a\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a13c9a64228ab45bf1879f4b6515f0f77fd7123f">
+        <dex dex="C:\Users\OmarIvanFQ\Desktop\4\android\build\intermediates\transforms\preDex\release\11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OmarIvanFQ\.gradle\caches\transforms-1\files-1.1\customtabs-26.1.0.aar\02ce068583f7959445b4ea3123bbd5dc\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e6fff1d276738bb82cfc131c49d2e72a47dfd0aa">
+        <dex dex="C:\Users\OmarIvanFQ\Desktop\4\android\build\intermediates\transforms\preDex\release\8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OmarIvanFQ\.gradle\caches\transforms-1\files-1.1\play-services-ads-17.2.0.aar\5cb158d80e2ee93001d430735ef4ff5e\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ede6e66930694913ab4675c9eddfc93e078e93f5">
+        <dex dex="C:\Users\OmarIvanFQ\Desktop\4\android\build\intermediates\transforms\preDex\release\6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OmarIvanFQ\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.3.0.aar\8dfd70d7bdf63bd32216f39660849187\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="43435fb278ff53092bc74a6e2abe7d3f05b10757">
+        <dex dex="C:\Users\OmarIvanFQ\Desktop\4\android\build\intermediates\transforms\preDex\release\14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OmarIvanFQ\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-freetype\1.9.6\69187cc3c8062f191df435b43671b0e5ffcbf353\gdx-freetype-1.9.6.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="69187cc3c8062f191df435b43671b0e5ffcbf353">
+        <dex dex="C:\Users\OmarIvanFQ\Desktop\4\android\build\intermediates\transforms\preDex\release\5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OmarIvanFQ\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-backend-android\1.9.6\57c2831c870743712b808384187ea856e541878f\gdx-backend-android-1.9.6.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="57c2831c870743712b808384187ea856e541878f">
+        <dex dex="C:\Users\OmarIvanFQ\Desktop\4\android\build\intermediates\transforms\preDex\release\3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OmarIvanFQ\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="C:\Users\OmarIvanFQ\Desktop\4\android\build\intermediates\transforms\preDex\release\24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\OmarIvanFQ\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\f00c013fed3827161d546ea4de878110\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="C:\Users\OmarIvanFQ\Desktop\4\android\build\intermediates\transforms\preDex\release\17.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,89 @@
+spark_revela.png
+size: 240, 20
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+destello01
+  rotate: false
+  xy: 0, 0
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+destello02
+  rotate: false
+  xy: 20, 0
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+destello03
+  rotate: false
+  xy: 40, 0
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+destello04
+  rotate: false
+  xy: 60, 0
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+destello05
+  rotate: false
+  xy: 80, 0
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+destello06
+  rotate: false
+  xy: 100, 0
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+destello07
+  rotate: false
+  xy: 120, 0
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+destello08
+  rotate: false
+  xy: 140, 0
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+destello09
+  rotate: false
+  xy: 160, 0
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+destello10
+  rotate: false
+  xy: 180, 0
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+destello11
+  rotate: false
+  xy: 200, 0
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+destello12
+  rotate: false
+  xy: 220, 0
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
